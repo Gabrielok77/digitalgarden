@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations/","title":"Accueil","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations/","title":"Fiche d'infos","tags":["gardenEntry"]}
 ---
 
 
