@@ -1421,32 +1421,21 @@ Activité.s supplémentaire.s :
 
 ## Statistiques
 
-### Caractéristiques Primaires
+### Caractéristiques
 
->[!Tip] Endurance
->Energie : 
->
 
->[!Tip] Force
->Energie : 
->
+60 points à répartir ! (attention aux conditions selon les peuple) Prendre en compte les bonus de classe à part (avec un plus)
 
->[!Tip] Foi
->Energie : 
+Force :
 
->[!Tip] Charisme
->Energie : 
->
+Technique : 
 
->[!Tip] Technique
->Energie : 
->
+Endurance :
 
->[!Tip] Intelligence
->Energie : 
+Intelligence : 
 
->[!Tip] Arcane
->Palier d'Ascension : 
->
+Charisme :
+
+Foi :
 
 
