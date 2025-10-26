@@ -426,7 +426,7 @@ Si vous connaissez les règles de Donjons et Dragons, tant mieux ! Nal'Ubekla n'
 
 >[!Umbra] ⚔️ Les jets de dés
 >La plupart des actions vont être jouées avec un **d20 (dé à 20 faces)** :
->Jet = d20 + Modificateur ≥ Classe de Difficulté (CD)
+>Jet = d20 ≥ Classe de Difficulté de l'action (CD)
 >- **Réussite** : le résultat atteint ou dépasse la CD.  
 >- **Échec** : le résultat est inférieur à la CD.  
 > Il existe d'autres dés : d4, d6, d8, d10, d12, d100 qui seront employés dans d'autres contextes
@@ -444,15 +444,11 @@ Si vous connaissez les règles de Donjons et Dragons, tant mieux ! Nal'Ubekla n'
   >- Foi (FOI)
 
 >[!umbra] 🛡️ Combat
->1. **Initiative** : chacun lance **1d20** + TEC.  
+>Les combats se jouent en tour par tour.
+>1. **Initiative** : chacun lance **1d20** + TEC.  Le résultat déterminera l'ordre des personnages dans un tour.
 >2. **Tours** : chaque tour = 1 action, 1 mouvement, 1 action bonus.  
 >3. **Jets d’attaque** : **1d20** + Bonus ≥ CA (Classe d’Armure) de l’adversaire.  
 >4. **Dégâts** : un jet de dés dont la valeur dépend de plusieurs facteurs
-
->[!umbra] 🧭 Progression
->Les personnages gagnent des **points d’expérience (XP)** en surmontant des défis.  
->En montant de **niveau**, ils deviennent plus puissants : nouveaux sorts, capacités, PV, etc.
-
 
 Règles plus complexes 
 ---
@@ -1397,7 +1393,7 @@ Arcane :
 
 ## Origines  
 
-Histoire : 
+Histoire (expliquer son passé) :
 
 ## Social
 
@@ -1405,6 +1401,9 @@ Statut Social dans l'Empire Matoto (bien vu, mal vu, noblesse, etc. ?)
 
 Guilde (ou non) : 
 
+## Je suis connu dans l'Empire Matoto car...
+
+......
 ## Certains me détestent car...
 
 ......
