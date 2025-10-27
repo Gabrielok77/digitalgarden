@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/gameplay/page-d-accueil/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/gameplay/page-d-accueil/","title":"Home","tags":["gardenEntry"]}
 ---
 
+
+
+permalink: /gameplay/
+---
 
 
 
