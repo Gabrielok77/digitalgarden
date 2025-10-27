@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations-sur-ton-personnage/","title":"Fiche d'infos"}
+{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations-sur-ton-personnage/","title":"Fiche d'infos","tags":["gardenEntry"]}
 ---
 
 ```table-of-contents
