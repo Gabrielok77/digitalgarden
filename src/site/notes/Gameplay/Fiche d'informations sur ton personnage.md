@@ -1348,7 +1348,7 @@ Prénom :
 
 Taille : 
 
-Date de naissance : 
+Anniversaire :
 
 Signe Astrologique : 
 
