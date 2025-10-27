@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations-sur-ton-personnage/","title":"Fiche d'infos","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations-sur-ton-personnage/","title":"Fiche d'infos"}
 ---
 
 ```table-of-contents
@@ -826,7 +826,6 @@ Les Vagabonds sont des êtres ayant traduits le Moto en des pouvoir de voyages e
 
 ![Pasted image 20251024163141.png|300](/img/user/Images/Pasted%20image%2020251024163141.png) ![Pasted image 20251024210058.png|300](/img/user/Images/Pasted%20image%2020251024210058.png)
 
-Ultime : touche = silencié
 
 >[!Roseframe] L'Arcane de l'Anachorète
 >Elle conserve la sagesse et patiente dans le silence. L'on raconte que dans son immense bibliothèque se cachent les secrets de l'avenir. 
