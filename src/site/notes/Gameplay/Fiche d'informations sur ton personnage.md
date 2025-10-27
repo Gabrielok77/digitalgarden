@@ -93,6 +93,7 @@ Nés un peu partout sur le continent, les Arbres Chanteurs sont ouverts et bavar
 
 ### 1.2.4. "Au mètre près !" : Les Marionnettes 
 
+
 ![Pasted image 20251023234504.png|300](/img/user/Images/Pasted%20image%2020251023234504.png)     ![Pasted image 20251023235028.png|300](/img/user/Images/Pasted%20image%2020251023235028.png)
 
 
@@ -106,7 +107,6 @@ L'on voit jamais qui manipule les Marionnettes mais l'on raconte qu'une guilde l
 >- Auto-destruction activée (destruction de sa création)
 >- Artisanat de Maître (remplace Artisanat)
 >- Combats de marionettiste (Bonus et Malus en Combat rapproché et Lancer)
-
 
 ### 1.2.5. Bébou Rocher.. : Les Fokayus
 
@@ -216,7 +216,7 @@ Tout me monde n'était pas gagnant, lors du Grand Jaillissement ! Certaines anci
 >Foi > 11
 >
 >Compétences : 
->- Prisonnier (ne peut pas être séparer de plus de 15 mètres de son artefact)
+>- Prisonnier (ne peut pas être séparer de plus de 5 mètres de son artefact)
 >- Restes d'ancienne déité (choix d'une compétence de n'importe quelle classe en plus)
 ### 1.2.12. Liberez tous mes copains : Les Zombis 
 
@@ -1041,7 +1041,6 @@ Les Charmeur.euse.s sont des mages utilisant le Moto dans des Magies de Soins et
 
 ![Pasted image 20251024163724.png|300](/img/user/Images/Pasted%20image%2020251024163724.png)  ![Pasted image 20251024163735.png|300](/img/user/Images/Pasted%20image%2020251024163735.png)
 
-
 Ultime : Stop.
 
 >[!Roseframe] L'Arcane de l'Oubliée
@@ -1295,7 +1294,7 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 >[!eidolon] Caractéristiques et quelques compétences notoires
 >
 >CHA +3
->FOR -2
+>FOR -1
 >
 >Sous classes : Coïncidences, Destinées, Apparences
 >
