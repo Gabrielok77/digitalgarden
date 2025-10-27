@@ -1352,6 +1352,8 @@ Date de naissance :
 
 Signe Astrologique : 
 
+Peuple : 
+
 Classe :
 
 ## Personnalité
