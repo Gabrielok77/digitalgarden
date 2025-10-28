@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"gameplay/fiche-info","permalink":"/gameplay/fiche-info/","title":"Fiche d'infos"}
+{"dg-publish":true,"dg-path":"gameplay/tuto","permalink":"/gameplay/tuto/","title":"Fiche informative"}
 ---
+
+
+
 
 ```table-of-contents
 ```
