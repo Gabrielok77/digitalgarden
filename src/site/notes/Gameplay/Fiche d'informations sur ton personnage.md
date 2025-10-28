@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gameplay/fiche-d-informations-sur-ton-personnage/","title":"Fiche d'infos"}
+{"dg-publish":true,"dg-path":"gameplay/fiche-info","permalink":"/gameplay/fiche-info/","title":"Fiche d'infos"}
 ---
 
 ```table-of-contents
