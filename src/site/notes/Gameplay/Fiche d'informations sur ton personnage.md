@@ -1426,16 +1426,16 @@ Activité.s supplémentaire.s :
 
 60 points à répartir ! (attention aux conditions selon les peuple) Prendre en compte les bonus de classe à part (avec un plus)
 
-Force :
+Force : (Entre 2 et 16)
 
-Technique : 
+Technique : (Entre 2 et 16)
 
-Endurance :
+Endurance : (Entre 2 et 16)
 
-Intelligence : 
+Intelligence : (Entre 2 et 16)
 
-Charisme :
+Charisme :(Entre 2 et 16)
 
-Foi :
+Foi :(Entre 2 et 16)
 
 
