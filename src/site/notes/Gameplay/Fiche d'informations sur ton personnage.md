@@ -501,7 +501,7 @@ Règles plus complexes
 >[!info] 💥 Classes d’Armure (CA)
 > **CA = 10 + modificateur de TEC + armure + bouclier**
 >
->- Sans armure : 10 + Modif. TEC  + Bonus de l'armure
+>- Sans armure : 10 + Modif. TEC 
 >- Armure légère : 10 + Modif. TEC + Bonus de l'armure
 >- Armure moyenne : 10 + Modif. TEC (limité à 2 max.)  + Bonus de l'armure
 >- Armure lourde : 10 + Bonus de l'armure
@@ -869,7 +869,7 @@ Ultime : Fusionne avec son fétiche
 >- Fusion (fusion entre lae Féticheur.euse et son fétiche)
 >- ...
 
-#### X. 🌘 Arcane du Cauchemar : **Cauchemardeur·euse**
+#### X. 🌘 Arcane du Cauchemar : **Cauchemardeur·euses**
 
 ![Pasted image 20251024210535.png|300](/img/user/Images/Pasted%20image%2020251024210535.png)   ![Pasted image 20251024210602.png|300](/img/user/Images/Pasted%20image%2020251024210602.png)
 
