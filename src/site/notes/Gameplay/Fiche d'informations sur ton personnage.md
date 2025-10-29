@@ -5,9 +5,6 @@
 
 
 
-```table-of-contents
-```
-
 
 # Informations Principales
 
