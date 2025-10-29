@@ -978,4 +978,89 @@ input[type="checkbox"][data-task="B"]::after {
   background: var(--color-red);
   -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-bookmark' width='24' height='24' viewBox='0 0 24 24' stroke-width='2' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath stroke='none' d='M0 0h24v24H0z' fill='none'%3E%3C/path%3E%3Cpath d='M9 4h6a2 2 0 0 1 2 2v14l-5 -3l-5 3v-14a2 2 0 0 1 2 -2'%3E%3C/path%3E%3C/svg%3E");
 }
+/* --- Classe pour une note avec image de fond --- */
+.note-avec-fond {
+    /* Propriété 1: Spécifie l'image à utiliser */
+    background-image: url('https://cdn.pixabay.com/photo/2019/01/07/09/51/vintage-3918696_1280.jpg'); 
+    /* Ou pour une image locale dans le vault (voir explication ci-dessous) : 
+    background-image: url('app://local/C:/Users/VotreNom/Documents/VaultObsidian/assets/image-de-fond.jpg'); 
+    */
+
+    /* Propriété 2: Contrôle la répétition de l'image */
+    background-repeat: no-repeat; /* Ne répète pas l'image */
+    /* background-repeat: repeat; */    /* Répète l'image pour couvrir */
+
+    /* Propriété 3: Positionne l'image (Ex: centrer, en haut à droite, etc.) */
+    background-position: center center; /* Centre l'image horizontalement et verticalement */
+    /* background-position: top right; */ /* En haut à droite */
+
+    /* Propriété 4: Taille de l'image de fond */
+    background-size: cover; /* L'image couvre toute la zone, coupant ce qui dépasse */
+    /* background-size: contain; */ /* L'image est entièrement visible, laissant parfois des espaces */
+    /* background-size: 100% 100%; */ /* Étire l'image pour remplir exactement la zone */
+    /* background-size: 50% auto; */ /* L'image fait 50% de la largeur, hauteur auto */
+
+    /* Propriété 5: Rend l'image fixe si on fait défiler la page */
+    background-attachment: fixed; /* L'image de fond reste fixe quand on scroll */
+    /* background-attachment: scroll; */ /* L'image défile avec le contenu */
+
+    /* Propriété 6: (Optionnel) Ajoute un dégradé ou une couleur par-dessus l'image pour le contraste */
+    background-blend-mode: overlay; /* Mélange l'image avec une couleur de fond */
+    background-color: rgba(0, 0, 0, 0.3); /* Un léger voile sombre pour améliorer la lisibilité du texte */
+    /* Ou une couleur de fond simple si l'image est transparente ou petite */
+    /* background-color: #f0f0f0; */ 
+}
+
+/* Vous pouvez aussi ajouter des styles au texte pour améliorer la lisibilité */
+.note-avec-fond .markdown-preview-view {
+    color: black; /* Rend le texte blanc pour un meilleur contraste sur un fond sombre */
+    text-shadow: 1px 1px 2px black; /* Ajoute une légère ombre au texte pour la lisibilité */
+}
+
+/* Surcharge des titres pour les rendre visibles */
+.note-avec-fond .markdown-preview-view h1,
+.note-avec-fond .markdown-preview-view h2,
+/* ... pour tous les niveaux de titres */
+.note-avec-fond .markdown-preview-view h6 {
+    color: black; /* Assure que les titres restent blancs */
+    text-shadow: 1px 1px 3px black;
+}
+
+/* ------------------------------------------------------------------
+     Utilitaires : forcer le thème clair/sombre pour les notes
+
+     - .light-theme : force l'apparence claire (utilise --bg-image-light)
+     - .dark-theme  : force l'apparence sombre  (utilise --bg-image-dark)
+
+     Usage :
+         <div class="light-theme">
+             <div class="note-avec-fond">...</div>
+         </div>
+     ou
+         <div class="note-avec-fond light-theme">...</div>
+
+     Ces règles sont placées à la fin pour surclasser les media queries basées
+     sur `prefers-color-scheme`. Elles utilisent `!important` pour garantir
+     l'application lorsque nécessaire.
+------------------------------------------------------------------ */
+
+.light-theme {
+.markdown-preview-view[data-path="Light Note.md"],
+.markdown-source-view[data-path="Light Note.md"] {
+  --background-primary: #ffffff;
+  --background-secondary: #f6f6f6;
+  --text-normal: #222222;
+  --text-muted: #555555;
+  --link-color: #0066cc;
+  --text-highlight-bg: #fffa8b;
+  --code-background: #f0f0f0;
+  --interactive-accent: #0066cc;
+  color-scheme: light;
+}
+
+.dark-theme {
+    color: var(--note-text-color, #f7f7fb) !important;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6) !important;
+}
+
 
