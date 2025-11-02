@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Lakui_notes","permalink":"//lakui-notes/","title":"🦋 Lakui"}
+{"dg-publish":true,"dg-path":"/Lakui_note","permalink":"//lakui-note/","title":"🦋 Lakui"}
 ---
 
 
