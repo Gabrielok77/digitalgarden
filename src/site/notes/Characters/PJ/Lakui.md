@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Lakui_note","permalink":"//lakui-note/","title":"🦋 Lakui"}
+{"dg-publish":true,"dg-path":"/lakui_note","permalink":"//lakui-note/","title":"🦋 Lakui"}
 ---
 
 
@@ -16,37 +16,24 @@ Nom : Lakui
 
 Taille : 
 
-Anniversaire :
+Anniversaire : 2/04
 
 Peuple : Demi-Libre
 
 Classe : Cauchermardeuse
-
-## Personnalité
-
-Qualités : 
-
-Défauts :
-
-Peurs : 
-
-Plus grand rêve :
-
-Pire cauchemar :
-
 ## Cadre
 
 Famille : Ancienne déité de Nal'Ubekla
 
 ### Relations proches
 
-Parents (description de base) : Bïtibingo
+Parents (description de base) : Bïtibingo, Ancienne déité de la nuit
 
 Adelphes (frère, soeur ?) : Bingo (Nuit Obscure), Lango (Nuit, sommeil), Bïtivundu (Nuit désespérante)
 
-Relation 1 (personne de son passé/présent qui compte pour le personnage) : LIBERATEUR
+Relation 1 (personne de son passé/présent qui compte pour le personnage) : Kamel
 
-Relation 2 (facultatif) : Professeur Baobab Enflammé
+Relation 2 (facultatif) : Professeure 
 
 Perte (personne(s) que le personnage a perdu, facultatif) : Bingo, Lango, Bïtivundu 
 
