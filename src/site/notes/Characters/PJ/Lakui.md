@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/lakui_note","permalink":"//lakui-note/","title":"🦋 Lakui"}
+{"dg-publish":true,"dg-path":"/Lakui","permalink":"//lakui/","title":"🦋 Lakui"}
 ---
 
 
@@ -33,9 +33,9 @@ Adelphes (frère, soeur ?) : Bingo (Nuit Obscure), Lango (Nuit, sommeil), Bïtiv
 
 Relation 1 (personne de son passé/présent qui compte pour le personnage) : Kamel
 
-Relation 2 (facultatif) : Professeure 
+Relation 2 (facultatif) : Professeure Mapapu
 
-Perte (personne(s) que le personnage a perdu, facultatif) : Bingo, Lango, Bïtivundu 
+Perte (personne(s) que le personnage a perdu, facultatif) : Bingo, Lango, Bïtivundu, ses colocataires 
 
 ### Esotérisme
 
@@ -43,17 +43,14 @@ Arcane : X. Le Cauchemar
 
 ## Origines  
 
-Histoire (expliquer son passé) : Lakui est l'ancienne déité des mystères de la nuit
-
-## Social
-
-Statut Social dans l'Empire Matoto (bien vu, mal vu, noblesse, etc. ?)
-
-Guilde (ou non) : 
+Histoire (expliquer son passé) : Lakui est l'ancienne déité des mystères de la nuit. Lors du [[Lore/Le Grand Jaillissement\|Le Grand Jaillissement]], comme beaucoup d'autres déités, elle perdit tous ses pouvoirs de déités. Il lui a fallu 170 ans pour récupérer ses forces. A son réveil, elle se retrouve enfermé dans une lanterne, dans l'incapacité d'en sortir de son plein gré. 
+Tous les 30 ans, elle est appelée par des nobles de [[Maraka\|Maraka]] afin de répondre à des question sur le monde avant l[[Lore/Le Grand Jaillissement\|Le Grand Jaillissement]] ou bien d'autres questions mystisques sur [[Le Monde des Déités\|Le Monde des Déités]]. 
+750 ans plus tard, il s'agissait d'un jeune garçon des rues qui faisait appel à elle. Nommé [[Kaleb\|Kaleb]], son désir le plus cher était de se trouver une amie. En effet, ses parents sont morts lorsqu'il était très jeune et ce traumatisme lui a procuré l'arcane de [[Lore/Cards/XIII. La Furie\|La Furie]]. Il serait miraculeusement tombé sur sa lanterne alors qu'elle était tombée d'une calèche de voyage. 
+Un jour, les deux amis choisirent de se lancer dans un projet : traverser le Désert Noir et atteindre la [[Paradis au-delà du Désert\|Paradis au-delà du Désert]]. Lors de la traversée, Lakui et Kaleb se sont retrouvés face à une Panthère des Sables, un monstre des sables de 4 mètres de haut connu pour les tempêtes de sable qu'il invoque sur son passage. 
 
 ## Je suis connu dans l'Empire Matoto car...
 
-Lakui a travaillé avec le Professeur Lini-Mbambu, en tant qu'élève-assistante. Lorsque l'observatoire de la [[Worldbuilding/Villes/La Ville Etoiles\|La Ville Etoiles]] fut partiellement détruit, elle s'est fait remarquée par l'Empire Soleil. Bien qu'elle ait vécu ses dernières années dans une ville des Royaumes Sages, elle ne semble pas directement affiliée au pouvoir régent. 
+Lakui a travaillé avec le Professeur Mapapu, en tant qu'élève-assistante. Lorsque l'observatoire de la [[Worldbuilding/Villes/La Ville Etoiles\|La Ville Etoiles]] fut partiellement détruit, elle s'est fait remarquée par l'Empire Soleil. Bien qu'elle ait vécu ses dernières années dans une ville des Royaumes Sages, elle ne semble pas directement affiliée au pouvoir régent. 
 
 
 ## Certains la détestent car...
@@ -64,30 +61,30 @@ Portée responsable de l'accident de l'Observatoire par beaucoup, elle porte tr�
 
 Langue(s) : Langue Divine Anciennee, Raab, la Langue
 
-Métier : ex-professeure assistante
+Métier : ex-élève assistante
 
 Education : Principe et Culture des Plans Divins
 
-Activité.s supplémentaire.s :
+Activité.s supplémentaire.s : 
 
 ## Statistiques
 
 ### Caractéristiques
 
 
-60 points à répartir ! (attention aux conditions selon les peuple) Prendre en compte les bonus de classe à part (avec un plus)
+60 points à répartir ! (attention aux conditions selon les peuple) Prendre en compte les bonus de classe à part (avec un plus).
 
 Force : 6
 
-Technique : 11 - 1
+Technique : 10
 
 Endurance : 10
 
 Intelligence : 8
 
-Charisme : 12 + 2 
+Charisme : 14
 
-Foi : 13 + 1 
+Foi : 14
 
 ### Compétences 
 
@@ -172,4 +169,7 @@ Foi : 13 + 1
 >[!umbra] Tenir bon
 >Jet : Force 
 >Effet : Ne pas s'évanouir/ être sonné.e après un coup
+
+
+
 
