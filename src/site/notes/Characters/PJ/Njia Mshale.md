@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pj/njia-mshale/"}
+{"dg-publish":true,"permalink":"/characters/pj/njia-mshale/","title":"Njia Mshale"}
 ---
 
 
