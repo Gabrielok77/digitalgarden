@@ -6,3 +6,5 @@
 Suspense hehe
 
 Page en reconstruction
+
+[[Gameplay/Fiche d'informations sur ton personnage\|Fiche d'informations sur ton personnage]]
