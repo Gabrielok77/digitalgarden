@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Lakui","permalink":"//lakui/","title":"🦋 Lakui"}
+{"dg-publish":true,"permalink":"/characters/pj/lakui/","title":"🦋 Lakui"}
 ---
 
 
