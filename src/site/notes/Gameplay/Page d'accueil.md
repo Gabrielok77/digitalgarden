@@ -11,7 +11,6 @@
 
 ## [[Gameplay/Fiche d'informations sur ton personnage\|Comment créer mon personnage ?]]
 
-
-## [[Personnages Joueurs\|Ma Fiche Finale de Personnage]]
+le reste  à v
 
 
