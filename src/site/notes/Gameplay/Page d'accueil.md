@@ -7,10 +7,10 @@
 
 
 
-# Menu d'acceuil
+# Menu d'accueil
 
 ## [[Gameplay/Fiche d'informations sur ton personnage\|Comment créer mon personnage ?]]
 
-le reste  à v
+le reste à venir
 
 
