@@ -9,8 +9,7 @@
 
 # Menu d'accueil
 
-## [[Gameplay/Fiche d'informations sur ton personnage\|Comment créer mon personnage ?]]
 
-le reste à venir
+## PAGE EN REPARATION
 
 
