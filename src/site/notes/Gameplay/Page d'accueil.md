@@ -13,3 +13,6 @@
 ## PAGE EN REPARATION
 
 
+[[Characters/PJ/Njia Mshale\|Njia Mshale]]
+
+[[Characters/PJ/Lakui\|Lakui]]
