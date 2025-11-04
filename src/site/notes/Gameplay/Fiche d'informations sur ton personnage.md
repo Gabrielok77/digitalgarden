@@ -124,6 +124,8 @@ La culture du secret des Fokayus est peut-être liée à leur grande faculté à
 >Compétences : 
 >- Insensible (résiste à la plus part des types de dégâts et dégâts réduits)
 >- Plus bouger (devient un caillou incapable e bouger mais avec un énorme bonus en discretion)
+
+
 ### 1.2.6. "J'ai volé ton nez." : Les Voleurs de Visages
 
 ![Pasted image 20251023235334.png|300](/img/user/Images/Pasted%20image%2020251023235334.png)![Pasted image 20251023235355.png|300](/img/user/Images/Pasted%20image%2020251023235355.png) ![Pasted image 20251023235439.png|300](/img/user/Images/Pasted%20image%2020251023235439.png)
@@ -146,7 +148,7 @@ Ils avait aussi conçu un outil avec de se remémorer les morts : les Masques. C
 
 -----------------
 
-Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinités peuvent changer. Leur troisième œil, perçu comme une malédiction, leur donne une capacité accrue à voir l'invisible.  
+Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinités peuvent changer. Leur troisième œil, perçu comme une malédiction, leur donne une capacité accrue à voir l'invisible.
 
 >[!eidolon] Caractéristiques et quelques compétences notoires
 >
@@ -218,6 +220,7 @@ Tout me monde n'était pas gagnant, lors du Grand Jaillissement ! Certaines anci
 >Compétences : 
 >- Prisonnier (ne peut pas être séparer de plus de 5 mètres de son artefact)
 >- Restes d'ancienne déité (choix d'une compétence de n'importe quelle classe en plus)
+
 ### 1.2.12. Liberez tous mes copains : Les Zombis 
 
 
@@ -386,7 +389,7 @@ Tous les secrets existent pour une raison. Et tous ne sont pas faits pour être 
 ### 1.4.5. La Guilde des Menteurs
 
 Combien de temps pensez-vous tenir en faisant croire à **tout le monde** que votre nom est Sauce de Cheval ? Un jour ? Trois ans ? Et bien si vous rejoignez la guilde des Menteurs, nous vous garantissant qu'avec l'aide de notre équipe de professionnels, votre porterez la pierre tombale la plus drôle de tout le Nseke !! Rejoignez-nous ! Ici, nous ne mentons pas pour gagner, ni pour faire perdre, juste pour la beauté du jeu.
-
+ 
 ### 1.4.6. La Guilde du Chaos
 
 Le Mbungi n'est pas la première chose à avoir exister. Avant elle, c'est le Chaos. C'est **lui**, la déité première et originelle ! Et il est temps que, petit à petit, il reprenne à son enfant la puissance et la lumière qu'il lui a volé... Le but de notre guilde ? Tout déconstruire, tout démolir, jusqu'à ce qu'il ne reste qu'un *chaos primordial*.
@@ -532,7 +535,7 @@ Certaines compétences exigent une **concentration** :
 >- Si tu prends des dégâts mais que tu réussis un **jet de END** (concentration continue)
 >- Si tu échoues → la compétence se termine
 
-
+ 
 ## 2.2. Les statistiques du personnages
 
 ### 2.2.1. Les Caractéristiques
@@ -1088,7 +1091,6 @@ Les Scelleur.euse.s traduisent le Moto dans du rythme et de la voix.
 #### XIX. 👩‍🎨 Arcane de la Conteuse : **Les Créateurice.s**
 
 ![Pasted image 20251024162835.png|300](/img/user/Images/Pasted%20image%2020251024162835.png)![Pasted image 20251024211301.png|300](/img/user/Images/Pasted%20image%2020251024211301.png)
-
 
 
 >[!author] La Plus Grande de Toutes.
