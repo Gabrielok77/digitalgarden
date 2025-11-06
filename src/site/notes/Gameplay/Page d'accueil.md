@@ -12,7 +12,3 @@
 
 ## PAGE EN REPARATION
 
-
-[[Characters/PJ/Njia\|Njia]]
-
-[[Characters/PJ/Lakui\|Lakui]]
