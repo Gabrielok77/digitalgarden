@@ -360,7 +360,7 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 # Expressions notoires
 
 
->[!author] Expressions du Désert Noir
+>[!author] Expression du Désert Noir
 >Que le Vent te souffle dans le dos. (*Que la chance soit avec toi*)
 
 >[!author] Expression de Marionnettes
