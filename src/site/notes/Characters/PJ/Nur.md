@@ -370,7 +370,7 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 >[!author] Expressions de Marionnettes
 >*Tape sur quelque chose /quelqu'un* Tsk tsk tsk... C'est pas du Bois Noble ça ! (Insulte ironique sur la qualité d'un matériau ou d'un individu.)
 
-
+>
 
 
 
