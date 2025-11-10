@@ -305,15 +305,8 @@ Il existe des êtres faits de métal qui crachent la fumée.
 -----------------
 
 Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinités peuvent changer. Leur troisième œil, perçu comme une malédiction, leur donne une capacité accrue à voir l'invisible.
+Les Trois Yeux étaient des descendants d'être Trans
 
->[!eidolon] Caractéristiques et quelques compétences notoires
->
->Intelligence > 9
->Foi > 11
->
->Compétences : 
->- Ultrasensibilité (peut détecter l'invisible)
->- Vision dans l'obscurité (voit dans le noir
 
 ## Les Lieux
 
