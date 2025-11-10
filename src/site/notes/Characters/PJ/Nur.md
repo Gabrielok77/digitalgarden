@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pj/nur/","title":"Nur Al-Shara Badr al Budur Amiirat Sha'b al Nur"}
+{"dg-publish":true,"permalink":"/characters/pj/nur/","title":"Nur Al-Sahra Badr al Budur Amiirat Sha'b al Nur"}
 ---
 
 
@@ -363,14 +363,16 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 >[!author] Expressions du Désert Noir
 >Que le Vent te souffle dans le dos. (*Que la chance soit avec toi*)
 
->[!author] Expressions de Marionnettes
+>[!author] Expression de Marionnettes
 >Être sûr.e à 99,999millions999milles999. (être sûr.e, de chez sûr.e)
 >
 
->[!author] Expressions de Marionnettes
+>[!author] Expression de Marionnettes
 >*Tape sur quelque chose /quelqu'un* Tsk tsk tsk... C'est pas du Bois Noble ça ! (Insulte ironique sur la qualité d'un matériau ou d'un individu.)
 
->
+>[!author] Expressions de Marionnettes
+>Trois petits tours et puis s'en vont ! (Geronimo !, En avant !, C'est parti !, etc.)
+
 
 
 
