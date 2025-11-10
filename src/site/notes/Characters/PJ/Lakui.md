@@ -365,3 +365,14 @@ Les Cauchemardeur.euse.s use de la magie onirique afin de manipuler les cauchema
 
 
 
+# Expressions notoires
+
+>[!author] Expression de Maraka
+>Sois patient avec moi ou enterre moi (*Je ne vis pas une situation facile*)
+
+>[!author] Expression de Demi-libres
+>Avoir des liens plus forts que mon sceau (être très proche de quelqu'un)
+
+>[!author] Expression de Demi-libres
+>Que l'Araignée te suive. (*Que le Destin soit avec toi*, cela peut être positif comme négatif )
+
