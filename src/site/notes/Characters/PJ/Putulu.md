@@ -377,5 +377,5 @@ Les Créateur.ice.s sont des êtres utilisant leur imagination pour traduire le 
 >[!author] Expression de [[Lore/Peuples/Les Sahau\|Sahau]]
 >Jurer sur son masque. (*Littéralement jurer sur son âme.*)
 
->[!author] Expressions de Sahau
+>[!author] Expression de Sahau
 >Je pardonnerai peut-être un jour. Mais mon masque, lui, n'oubliera jamais.
