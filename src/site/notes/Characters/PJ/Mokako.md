@@ -344,3 +344,17 @@ Adeptes de nécromancie plus ou moins immorales, les Sorcières et Sorciers puis
 
 
 # Expressions notoires
+
+
+>[!author] Expression des Bois Rouge
+>Et les corbeaux cygnes continuent de passer... (*Et la vie continue...*)
+
+>[!author] Expression des Bois Rouges
+>*Tape sur quelque chose /quelqu'un* Tsk tsk tsk... C'est pas du Bois Rouge ça ! (Insulte ironique sur la qualité d'un matériau ou d'un individu.)
+
+>[!author] Expression d'Anges
+>Pauvre être matériel (insulte péjorative à l'égard de personne vivant sur un plan matériel).
+
+>[!author] Expression d'Ange
+>Je suis ton plus grand rêve ! (phrase pour se vanter/se la péter)
+
