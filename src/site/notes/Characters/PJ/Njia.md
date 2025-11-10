@@ -353,3 +353,17 @@ Les Vagabonds sont des êtres ayant traduits le Moto en des pouvoir de voyages e
 >Elle conserve la sagesse et patiente dans le silence. L'on raconte que dans son immense bibliothèque se cachent les secrets de l'avenir. 
 
 Les Silenceur.euse.s conservent un grand savoir et, en retour, ont appris à maîtriser le cours du moto afin de contrôler les flux des magicien.ne.s.
+
+# Expressions notoires
+
+>[!author] Expression des Bois Rouge
+>Et les corbeaux cygnes continuent de passer... (*Et la vie continue...*)
+
+>[!author] Expression des Bois Rouges
+>*Tape sur quelque chose /quelqu'un* Tsk tsk tsk... C'est pas du Bois Rouge ça ! (Insulte ironique sur la qualité d'un matériau ou d'un individu.)
+
+>[!author] Expression de Trois Yeux
+>Un oeil pour se souvenir, un oeil pour voir, un oeil pour comprendre... Je ne suis pas surpris.e d'apprendre votre niveau de bêtise, vous qui n'avez que deux yeux. (Insulte basique sur les peuples ayant deux yeux)
+
+>[!author] Expression de Trois Yeux
+>Le Destin a parlé ! (Geronimo !, En avant !, C'est parti !, etc.)
