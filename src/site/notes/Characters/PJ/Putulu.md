@@ -371,10 +371,10 @@ Les Créateur.ice.s sont des êtres utilisant leur imagination pour traduire le 
 
 # Expressions notoires
 
->[!author] Expressions du Cimetière des Fétiches
+>[!author] Expression du Cimetière des Fétiches
 >On ne pourrait même pas en faire une porte au Cimetière ! (*Cette personne est si inutile que son cadavre ne pourrait même pas être quelque chose d'aussi simple qu'une porte*)
 
->[!author] Expressions de [[Lore/Peuples/Les Sahau\|Sahau]]
+>[!author] Expression de [[Lore/Peuples/Les Sahau\|Sahau]]
 >Jurer sur son masque. (*Littéralement jurer sur son âme.*)
 
 >[!author] Expressions de Sahau
