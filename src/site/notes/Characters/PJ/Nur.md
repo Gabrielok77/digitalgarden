@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pj/nur/","title":"Nour Al-Shara"}
+{"dg-publish":true,"permalink":"/characters/pj/nur/","title":"Nur Al-Shara Badr al Budur Amiirat Sha'b al Nur"}
 ---
 
 
@@ -44,7 +44,10 @@ Lors d’un d’un voyage diplomatique, en quête de nouveaux sujets, un mensong
 C’est alors au plus bas, que les paroles du vieux sages lui était revenu. Si elle parvenait a déformer la réalité par ses mensonges, elle pourrait devenir ce qu’elle voulait. Elle a donc dirigé sa philosophie vers l’arcane de la conteuse. Ses nouvelles compétence lui donnant les clés de tout de même suivre sa destinée, même si pour cela, elle devra mentir jusqu’à la fin de ses jours.
 ## Origines  
 
-Née dans le Désert Noir, Nur a toujours rêver de plus. Issue du peuple de grands savant de l’art mécanique, elle façonna son corps de bois et d’or pour devenir l’incarnation noble d’une princesse. Après avoir perfectionner son art et les compétences de sa classe, elle quitta son village pour commencer a former son propre royaume. Sha’b al Nur serait une résurrection du désert noir, une glorification des arts et des ressources trop souvent moqué et dénigrer par d’autre peuple.
+Née dans le Désert Noir, Nur a toujours rêver de plus. Issue du peuple de grands savant de l’art mécanique, elle façonna son corps de bois et d’or pour devenir l’incarnation noble d’une princesse. Après avoir perfectionner son art et les compétences de sa classe, elle quitta son village pour commencer a former son propre royaume. Sha’b al Nur serait une réincarnation du désert noir lui-même, une glorification des arts et des ressources trop souvent moqué et dénigrer par d’autre peuple.
+Afin d'obtenir l'alliance de grandes puissances et donc de confirmer la légitimité de son peuple, Nur décide d'entreprendre un grand voyage diplomatique. Première destination : Matoto ! Après un très long trajet dont seule une poignée de ses servants ont vu le bout, elle atteint la capitale. Elle fonce directement vers le Palais, en grandes pompes mais se fait arrêter par Anunu, la Portière. Cette dernière refuse de laisser quelqu'un de sa basse importance d'entrer et la renvoie. Frustée, Nur cherche un moyen d'entrer. Elle entend des nobles parler d'une Guilde des Animaux, un groupe d'une grande puissance dans l'Empire. Nur revient donc toute contente de son plan et se réclame dirigeante de cette Guilde. Anunu lui donne une date de rendez-vous (une semaine plus tard) avec Matoto. La soir même, une Assassin l'attrape dans une ruelle et l'assassine. Nur se fait alors costumer. [[Ifa\|Ifa]] lui propose du lui offrir un sacrifice en échange de sa vie. Pour son peuple, elle décide de revenir, même s'il faut sacrifier sa propre arcane. La frustration lui a alors fait naître une nouvelle arcane : celle de [[Lore/Cards/XIX. La Conteuse\|la Conteuse]].
+
+
 
 ## Social
 
@@ -320,7 +323,7 @@ Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinité
 
 ## Arcanes 
 
-#### XIX. 👩‍🎨 Arcane de la Conteuse : **Les Créateurice.s**
+### XIX. 👩‍🎨 Arcane de la Conteuse : **Les Créateurice.s**
 
 ![Pasted image 20251024162835.png|300](/img/user/Images/Pasted%20image%2020251024162835.png)![Pasted image 20251024211301.png|300](/img/user/Images/Pasted%20image%2020251024211301.png)
 
@@ -330,7 +333,7 @@ Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinité
 
 Les Créateur.ice.s sont des êtres utilisant leur imagination pour traduire le Moto.
 
-#### XXV. 🧙‍♀️ Arcane de la Sorcière : **Les Sorcier.e.s**
+### XXV. 🧙‍♀️ Arcane de la Sorcière : **Les Sorcier.e.s**
 
 ![Pasted image 20251024161700.png|300](/img/user/Images/Pasted%20image%2020251024161700.png)   ![Pasted image 20251024164113.png|300](/img/user/Images/Pasted%20image%2020251024164113.png)
 
@@ -343,7 +346,7 @@ Les Créateur.ice.s sont des êtres utilisant leur imagination pour traduire le 
 Adeptes de nécromancie plus ou moins immorales, les Sorcières et Sorciers puisent le Moto des profondeurs de la Terre et l'expirent comme le Feu.
 
 
-#### XXVII.💎 Arcane de la Fille : **Les Prince·sse·s**
+### XXVII.💎 Arcane de la Fille : **Les Prince·sse·s**
 
 ![Pasted image 20251024161002.png|300](/img/user/Images/Pasted%20image%2020251024161002.png)  ![Pasted image 20251024162224.png|300](/img/user/Images/Pasted%20image%2020251024162224.png)
 
@@ -353,3 +356,21 @@ Adeptes de nécromancie plus ou moins immorales, les Sorcières et Sorciers puis
 >La Plus Charmante, la Plus Drôle, la Plus Belle, la Plus Merveilleuse de Toutes.
 
 Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin de leur côté.  
+
+# Expressions notoires
+
+
+>[!author] Expressions du Désert Noir
+>Que le Vent te souffle dans le dos. (*Que la chance soit avec toi*)
+
+>[!author] Expressions de Marionnettes
+>Être sûr.e à 99,999millions999milles999. (être sûr.e, de chez sûr.e)
+>
+
+>[!author] Expressions de Marionnettes
+>*Tape sur quelque chose /quelqu'un* Tsk tsk tsk... C'est pas du Bois Noble ça ! (Insulte ironique sur la qualité d'un matériau ou d'un individu.)
+
+
+
+
+
