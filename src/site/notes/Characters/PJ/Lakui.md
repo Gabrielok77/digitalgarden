@@ -168,7 +168,7 @@ Foi : 14
 >Effet : Déverrouiller des serrures ou défaire des pièges.
 >
 
->[!Umbra] Connaissanes Arcaniques
+>[!Umbra] Connaissances Arcaniques
 >Action
 >Jet : Foi
 >Effet : Connaître des informations sur les Arcanes
