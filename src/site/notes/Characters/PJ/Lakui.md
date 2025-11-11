@@ -49,7 +49,7 @@ Elle se réveilla plusieurs mois plus tard dans la Ville Etoiles. Elle ne sait n
 Sa nouvelle grande soeur, Janila, lui proposa, après quelques années, un travail en tant qu'assistante d'expérience dans l'Observatoire. Lakui accepte et travaille pendant plus de 20 ans dans l'Observatoire, au côté du Professeur Mapapu. Elle profitait du bâtiment pour essayer de retrouver Kaleb, de temps à autres, sans succès.
 Lakui était présente lors de l'incident de l'Observatoire. Elle ne connaissait malheureusement pas le sujet étudié mais en a bien vu les conséquences !  En tentant de fuir le bâtiment, Lakui se fait accidentellement poussée par quelqu'un et s'écroule. Des poutres tombant du toit ont achevé son existence. 
 
-[[Simbi Grande\|Simbi, la Mère des Serpents]] sauve Lakui de son changement en [[Costume\|Costume]] contre quelque chose de valeur aux yeux de Lakui. Cette dernière choisit de sacrifier Janila et Rossignol, survivante de l'incident.
+[[Lore/Simbi Grande\|Simbi, la Mère des Serpents]] sauve Lakui de son changement en [[Lore/Costume\|Costume]] contre quelque chose de valeur aux yeux de Lakui. Cette dernière choisit de sacrifier Janila et Rossignol, survivante de l'incident.
 
 
 ## Je suis connu dans l'Empire Matoto car...
@@ -375,4 +375,13 @@ Les Cauchemardeur.euse.s use de la magie onirique afin de manipuler les cauchema
 
 >[!author] Expression de Demi-libres
 >Que l'Araignée te suive. (*Que le Destin soit avec toi*, cela peut être positif comme négatif )
+
+>[!author] Expression de Demi-libres
+>Le Grand Jaillissement nous a garni de bien différentes créatures... (*Phrase de mépris*)
+
+>[!author] Expression de Demi-libres
+>Prie la personne qui prendra ta place (*Aime ton prochain car il va peut-être être ton supérieur demain*)
+
+>[!author] Expression de Demi-libres
+>La Mort a déjà mangé à ma table, je ne peux pas la craindre. (*Phrase de Demi-libre.*)
 
