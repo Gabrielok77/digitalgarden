@@ -42,7 +42,9 @@ Arcane : XX. La Joueuse
 
 Ange Déchu car il a participé à une rébellion. Depuis sa chute il erré de taverne en taverne et passe ses journées à jouer. La rébellion avait pour but de ramener un ange déchu il y a bien longtemps.
 
-X est né de Y il y a quelques 300 ans. Très jeune, il rejoint [[La Ligue des Forces Révolutionnaires Angéliques\|la Ligue des Forces Révolutionnaires Angéliques (LFRA)]]. Cette ligue avait pour objectif de faire tomber [[La Dynastie des 15\|La Dynastie des 15]], le gouvernement actuel du [[Worldbuilding/Ndosi\|Ndosi]]. La LFRA avait comme modèle [[Characters/Guerre des Guildes/Kuboka\|Kuboka]], un ange dit "déchu". Son capitaine, [[Rêves de Liberté\|Rêves de Liberté]], a engagé un assaut contre la Dynastie il y a quelques mois. Cet assaut s'est avéré être 
+X est né de Y il y a quelques 300 ans. Très jeune, il rejoint [[Lore/La Ligue des Forces Révolutionnaires Angéliques\|la Ligue des Forces Révolutionnaires Angéliques (LFRA)]]. Cette ligue avait pour objectif de faire tomber [[Lore/La Dynastie des 15\|La Dynastie des 15]], le gouvernement actuel du [[Worldbuilding/Ndosi\|Ndosi]]. La LFRA avait comme modèle [[Characters/Guerre des Guildes/Kuboka\|Kuboka]], un ange dit "déchu". Son capitaine, [[Rêves de Liberté\|Rêves de Liberté]], a engagé un assaut contre la Dynastie il y a quelques mois. Cet assaut s'est avéré être un échec. La Dynastie des 15 a choisi de bannir les anges rebelles du Ndosi. 
+
+Depuis, il ère dans les bars des Bois Rouges, vivant de ses paris
 
 
 
@@ -155,7 +157,7 @@ Foi : 14
 >Effet : Déverrouiller des serrures ou défaire des pièges.
 >
 
->[!Umbra] Connaissanes Arcaniques
+>[!Umbra] Connaissances Arcaniques
 >Action
 >Jet : Foi
 >Effet : Connaître des informations sur les Arcanes
