@@ -310,8 +310,10 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 # Expressions notoires
 
 >[!author] Expression de Fongieuses
->De toutes façons, vous finirez par être moi, vivant.e ou mort.e (*Pas la peine de se disputer, la Mère Fongieuse nous fusionnera un jour l'autre*)
+>De toutes fa
 
 >[!author] Expression de [[Lore/Peuples/Les Sahau\|Sahau]]
->Jurer sur la Mère Fongieuse. (*Littéralement jurer sur son âme.*)
+>Jurer sur son masque. (*Littéralement jurer sur son âme.*)
 
+>[!author] Expression de Sahau
+>Je pardonnerai peut-être un jour. Mais mon masque, lui, n'oubliera jamais.
