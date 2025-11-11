@@ -305,7 +305,7 @@ Il existe des êtres faits de métal qui crachent la fumée.
 -----------------
 
 Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinités peuvent changer. Leur troisième œil, perçu comme une malédiction, leur donne une capacité accrue à voir l'invisible.
-Les Trois Yeux étaient des descendants d'être Trans
+Les Trois Yeux sont des descendants d'êtres transplanaires, les Fandako Fanda. Ces derniers étaient tous descendants du demi-dieu Fanda. 
 
 
 ## Les Lieux
