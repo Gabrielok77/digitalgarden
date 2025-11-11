@@ -44,8 +44,8 @@ Arcane : VII. La Vagabonde
 
 Née dans le Village de Luanda, Njia a toujours vécu dans une certaine précarité. Sa mère était cordonnière et son père forgeron et c'était uniquement grâce à leurs talents qu'ils pouvaient avoir de quoi vivre. Il leur arrivait régulièrement de quitter Luanda et de partir en voyage d'affaires dans de nombreuses villes de l'Empire Matoto. Un jour, lors d'un autre voyage, Njia eut une vision : elle devait faire demi-tour rapidement. Ses parents ont refusé de l'écouter donc elle a choisi de quitter la charrette d'elle-même. Au bout de quelques mètres, elle change d'avis et revient sur ses pas. C'est alors qu'elle vit devant ses yeux ses parents se faire dévorer le visage par le [[Worldbuilding/Monstres/Mlaroho\|Mlaroho]]. Ce traumatisme a éveillé en elle [[Lore/Cards/VII. La Vagabonde\|l'Arcane de la Vagabonde]].  
 
-Njia a pris la décision de chasser la créature ainsi que toutes celles menaçant ceux qui ne peuvent pas se défendre. Elle passe des années à s'entraîner au combat dans [[Les Bois Rouges\|les Bois Rouges]]. C'est durant ses années d'entraînement qu'elle rencontrera [[Cucada\|Cucada]] et sa soeur [[Chungu\|Chungu]]. Chungu est une prodige de la lutte au fouet. Celle-là s'entraînait et chassait dans l'unique but de devenir un héros et rejoindre [[Worldbuilding/Guildes/La Guilde des Légendes\|La Guilde des Légendes]], une [[Lore/Les Guildes\|Guilde]] concentrée sur les cryptides, histoires, et autres rumeurs de ce monde. Cucada, lui, était plutôt intéressé à l'idée de créer une Encyclopédie réunissant toutes les créatures du monde mais était bien trop peureux pour se rapprocher de l'une d'entre elle. Bien que Njia était plutôt solitaire, à force de les croiser, elle finit par se rapprocher d'eux, surtout du petit Cucada et son petit oisillon "*Super Raptor Ultime*".
-Après une vingtaine d'années d'entrainement, Njia retomba seule à seule face au [[Worldbuilding/Monstres/Mlaroho\|Mlaroho]]. Elle perd l'affrontement et se fait costumer. [[Le Baron Samedi\|Le Baron Samedi]] propose un marché avec Njia : en échange d'un objet qui lui est cher, il lui permettrait de rejoindre son corps une nouvelle fois. Cette dernière accepta et offrit son carnet d'Aventures.
+Njia a pris la décision de chasser la créature ainsi que toutes celles menaçant ceux qui ne peuvent pas se défendre. Elle passe des années à s'entraîner au combat dans [[Worldbuilding/Les Bois Rouges\|les Bois Rouges]]. C'est durant ses années d'entraînement qu'elle rencontrera [[Cucada\|Cucada]] et sa soeur [[Chungu\|Chungu]]. Chungu est une prodige de la lutte au fouet. Celle-là s'entraînait et chassait dans l'unique but de devenir un héros et rejoindre [[Worldbuilding/Guildes/La Guilde des Légendes\|La Guilde des Légendes]], une [[Lore/Les Guildes\|Guilde]] concentrée sur les cryptides, histoires, et autres rumeurs de ce monde. Cucada, lui, était plutôt intéressé à l'idée de créer une Encyclopédie réunissant toutes les créatures du monde mais était bien trop peureux pour se rapprocher de l'une d'entre elle. Bien que Njia était plutôt solitaire, à force de les croiser, elle finit par se rapprocher d'eux, surtout du petit Cucada et son petit oisillon "*Super Raptor Ultime*".
+Après une vingtaine d'années d'entrainement, Njia retomba seule à seule face au [[Worldbuilding/Monstres/Mlaroho\|Mlaroho]]. Elle perd l'affrontement et se fait costumer. [[Lore/Le Baron Samedi\|Le Baron Samedi]] propose un marché avec Njia : en échange d'un objet qui lui est cher, il lui permettrait de rejoindre son corps une nouvelle fois. Cette dernière accepta et offrit son carnet d'Aventures.
 
 
 
@@ -76,17 +76,17 @@ Activité.s supplémentaire.s :
 
 ### Caractéristiques
 
-Force : 
+Force : 8
 
-Technique : 
+Technique : 14
 
-Endurance : 
+Endurance : 8
 
-Intelligence : 
+Intelligence : 13
 
-Charisme : 
+Charisme : 6
 
-Foi : 
+Foi : 11
 
 ### Compétences 
 
@@ -162,7 +162,7 @@ Foi :
 >Effet : Déverrouiller des serrures ou défaire des pièges.
 >
 
->[!Umbra] Connaissanes Arcaniques
+>[!Umbra] Connaissances Arcaniques
 >Action
 >Jet : Foi
 >Effet : Connaître des informations sur les Arcanes
@@ -367,3 +367,8 @@ Les Silenceur.euse.s conservent un grand savoir et, en retour, ont appris à ma�
 
 >[!author] Expression de Trois Yeux
 >Le Destin a parlé ! (Geronimo !, En avant !, C'est parti !, etc.)
+
+>[!author] Expression des Bois Rouges
+>Zoba ! (Imbécile !)
+
+>[!author]
