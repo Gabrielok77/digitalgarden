@@ -150,12 +150,12 @@ Foi : 9
 >Effet : Déverrouiller des serrures ou défaire des pièges.
 >
 
->[!Umbra] Connaissanes Arcaniques
+>[!Umbra] Connaissances Arcaniques
 >Action
 >Jet : Foi
 >Effet : Connaître des informations sur les Arcanes
 
->[!umbra] Connaissances étheriques
+>[!umbra] Connaissances fongiques
 >Action
 >Jet : Foi
 >Effet : Connaître des secrets sur le Nseke et le Mpemba
