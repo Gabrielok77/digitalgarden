@@ -86,7 +86,7 @@ Intelligence : 13
 
 Charisme : 6
 
-Foi : 11
+Foi : 13
 
 ### Compétences 
 
@@ -194,9 +194,8 @@ Foi : 11
 
 >[!shadow] Ultrasensibilité
 >Action
->Jet : Force
+>Jet : Foi
 >Effet : Permet de voir au-delà du visible et détecter des éléments de l'invisible.
-
 
 >[!shadow] Vision dans l'Obscurité
 >Passif
