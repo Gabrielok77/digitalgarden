@@ -357,6 +357,6 @@ Adeptes de nécromancie plus ou moins immorales, les Sorcières et Sorciers puis
 >[!author] Expression d'Anges
 >Pauvre être matériel (insulte péjorative à l'égard de personne vivant sur un plan matériel).
 
->[!author] Expression d'Ange
+>[!author] Expression d'Anges
 >Je suis ton plus grand rêve ! (phrase pour se vanter/se la péter)
 
