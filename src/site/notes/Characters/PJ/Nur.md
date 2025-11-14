@@ -64,7 +64,7 @@ J’ai menti et je me suis faite cramer lol (voir l’épisode de ma mort , youp
 
 ## Apprentissage 
 
-Langue(s) :La Langue, Langue des marionnette, Raab (langue du désert)
+Langue(s) : La Langue, Langue des marionnette, Raab (langue du désert)
 
 Métier : Princesse autoproclamée
 
@@ -373,6 +373,12 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 >[!author] Expressions de Marionnettes
 >Trois petits tours et puis s'en vont ! (Geronimo !, En avant !, C'est parti !, etc.)
 
+>[!author] Expressions de Marionnettes
+>Slaki ! (Idiot.e !)
+
+
+>[!author] Expressions de Marionnettes
+>Baisse les yeux plus bas qu'ils ne le sont déjà ! (Menace aux non-marionnettes)
 
 
 
