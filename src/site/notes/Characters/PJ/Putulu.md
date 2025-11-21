@@ -200,7 +200,7 @@ Foi : 12
 >Jet : Force 
 >Effet : Ne pas s'évanouir/ être sonné.e après un coup
 
->[!shadow] Faiseur de masque
+>[!shadow] Création de masque
 >Action 
 >Jet : Foi
 >Effet : Permet d'isoler une âme dans un masque

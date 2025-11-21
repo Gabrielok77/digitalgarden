@@ -158,7 +158,7 @@ Foi : 9
 >[!umbra] Connaissances fongiques
 >Action
 >Jet : Foi
->Effet : Connaître des secrets sur le Nseke et le Mpemba
+>Effet : Connaître des secrets sur le Nseke
 
 >[!umbra] Combat rapproché
 >Action
