@@ -370,4 +370,9 @@ Les Silenceur.euse.s conservent un grand savoir et, en retour, ont appris à ma�
 >[!author] Expression des Bois Rouges
 >Zoba ! (Imbécile !)
 
->[!author]
+>[!author] Expression de Bantous
+>Milimo ebatelaka yo. (*littéralement Les Esprits te protège, ancienne prière restée dans la culture Bantou*)
+
+>[!shadow] Croyances des Bois Rouges
+>Ne jamais chanter ni siffler dans les Bois pour rien (*cela peut attirer la Bête Rieuse, une vieille légende orale .*)
+
