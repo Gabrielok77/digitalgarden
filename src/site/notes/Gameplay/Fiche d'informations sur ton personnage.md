@@ -129,7 +129,8 @@ La culture du secret des Fokayus est peut-être liée à leur grande faculté à
 
 ### 1.2.6. "J'ai volé ton nez." : Les Voleurs de Visages
 
-![Pasted image 20251023235334.png|300](/img/user/Images/Pasted%20image%2020251023235334.png)![Pasted image 20251023235355.png|300](/img/user/Images/Pasted%20image%2020251023235355.png) ![Pasted image 20251023235439.png|300](/img/user/Images/Pasted%20image%2020251023235439.png)
+![Pasted image 20251023235334.png|300](/img/user/Images/Pasted%20image%2020251023235334.png)
+![Pasted image 20251023235355.png|300](/img/user/Images/Pasted%20image%2020251023235355.png) ![Pasted image 20251023235439.png|300](/img/user/Images/Pasted%20image%2020251023235439.png)
 
 ------------------------
 
@@ -207,7 +208,8 @@ Les souffleurs sont un peuple très mystérieux. Personne ne sait de quoi ils so
 
 ### 1.2.11. Je suis ton meilleuuur amiiiiiii : Les demi-libres
 
-![Pasted image 20251024001954.png|300](/img/user/Images/Pasted%20image%2020251024001954.png)![Pasted image 20251024002031.png|300](/img/user/Images/Pasted%20image%2020251024002031.png) ![Pasted image 20251024002107.png|300](/img/user/Images/Pasted%20image%2020251024002107.png)
+![Pasted image 20251024001954.png|300](/img/user/Images/Pasted%20image%2020251024001954.png)![Pasted image 20251024002031.png|300](/img/user/Images/Pasted%20image%2020251024002031.png) 
+![Pasted image 20251024002107.png|300](/img/user/Images/Pasted%20image%2020251024002107.png)
 
 ------------
 
@@ -242,7 +244,8 @@ Les zombis sont des esprits replacés dans leurs corps, charmés par des sorcier
 ### 1.2.14. Arrête de m'aimeer, Je t'aimerai toujouurs : Les Fétiches 
 
 
-![Pasted image 20251023235100.png|300](/img/user/Images/Pasted%20image%2020251023235100.png)![Pasted image 20251024002620.png|300](/img/user/Images/Pasted%20image%2020251024002620.png)   ![Pasted image 20251024002639.png|300](/img/user/Images/Pasted%20image%2020251024002639.png)
+![Pasted image 20251023235100.png|300](/img/user/Images/Pasted%20image%2020251023235100.png)
+![Pasted image 20251024002620.png|300](/img/user/Images/Pasted%20image%2020251024002620.png)   ![Pasted image 20251024002639.png|300](/img/user/Images/Pasted%20image%2020251024002639.png)
 
 -----------
 Sculptés dans le plus nobles des bois, les fétiches sont sensés restés avec les Féticheur.euse.s. Mais que se passe-t-il si leur lien avec les fétiches perdent le lien avec elleux ? Et bien, cela donne des êtres comiques, tout fait de bois.
@@ -256,7 +259,8 @@ Sculptés dans le plus nobles des bois, les fétiches sont sensés restés avec 
 
 ### 1.2.15. Y a du blanc, du rouge, du saucisson : Les Ogres.se.s
 
-![Pasted image 20251024002925.png|300](/img/user/Images/Pasted%20image%2020251024002925.png)   ![Pasted image 20251024002940.png|300](/img/user/Images/Pasted%20image%2020251024002940.png)   ![Pasted image 20251024003006.png|300](/img/user/Images/Pasted%20image%2020251024003006.png)
+![Pasted image 20251024002925.png|300](/img/user/Images/Pasted%20image%2020251024002925.png)   ![Pasted image 20251024002940.png|300](/img/user/Images/Pasted%20image%2020251024002940.png)   
+![Pasted image 20251024003006.png|300](/img/user/Images/Pasted%20image%2020251024003006.png)
 
 
 ------
@@ -273,7 +277,8 @@ Les Ogres sont originaires du Nord. Dans la culture ogresse : bien vivre, c'est 
 
 ### 1.2.16. Let the skyfaaaaaaall : Les Anges déchus 
 
-![Pasted image 20251024003306.png|300](/img/user/Images/Pasted%20image%2020251024003306.png)   ![Pasted image 20251024003415.png|300](/img/user/Images/Pasted%20image%2020251024003415.png)   ![Pasted image 20251024003433.png|300](/img/user/Images/Pasted%20image%2020251024003433.png)
+![Pasted image 20251024003306.png|300](/img/user/Images/Pasted%20image%2020251024003306.png)   ![Pasted image 20251024003415.png|300](/img/user/Images/Pasted%20image%2020251024003415.png)   
+![Pasted image 20251024003433.png|300](/img/user/Images/Pasted%20image%2020251024003433.png)
 
 
 
@@ -560,8 +565,6 @@ Certaines compétences exigent une **concentration** :
 >[!Tip] Foi
 >Allant initialement de 1 (faible) à 20 (fort), elle représente la force spirituelle du personnage et ses connaissances culturelles.
 
-
-
 ### 2.2.2. Les Compétences
 
 Plusieurs actions nécessiteront un jet. Elles sont appelés "Compétences". Voici les compétences que tous les personnages ont en commun :
@@ -742,7 +745,7 @@ Les Oracles sont des êtres hypersensibles, sentant même les tremblements des f
 >INT +1
 >END -1
 >
->Sous classes : Destin, Cartes, Aveni
+>Sous classes : Destin, Cartes, Avenir
 >
 >Compétences : 
 >- Yeux d'aigle (Supervision)
