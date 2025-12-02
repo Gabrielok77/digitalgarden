@@ -8,7 +8,7 @@
 
 ## Informations Capitales
 
-![Lakui.jpg|300](/img/user/Images/Lakui.jpg)
+![Lakui.jpg|00](/img/user/Images/Lakui.jpg)
 
 Nom : Lakui
 
@@ -214,9 +214,6 @@ Foi : 14
 
 
 
-
-
-
 # Connaissance de l'Univers
 
 ## Les peuples 
@@ -384,4 +381,17 @@ Les Cauchemardeur.euse.s use de la magie onirique afin de manipuler les cauchema
 
 >[!author] Expression de Demi-libres
 >La Mort a déjà mangé à ma table, je ne peux pas la craindre. (*Phrase de Demi-libre.*)
+
+>[!umbra] Comptine
+>"Sauve qui peut, 
+Sauve qui peut,
+La bête s'est cachée
+Sauve qui peut,
+Sauve qui peut,
+Mwaana va chasser
+>
+Si dans les ténèbres
+La panthère te guette
+Retrouve Maman Zèbre 
+Et crie, Marinette."
 
