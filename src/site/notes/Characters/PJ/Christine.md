@@ -310,10 +310,7 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 # Expressions notoires
 
 >[!author] Expression de Fongieuses
->De toutes fa
+>De toutes façons 
 
->[!author] Expression de [[Lore/Peuples/Les Sahau\|Sahau]]
->Jurer sur son masque. (*Littéralement jurer sur son âme.*)
 
->[!author] Expression de Sahau
->Je pardonnerai peut-être un jour. Mais mon masque, lui, n'oubliera jamais.
+

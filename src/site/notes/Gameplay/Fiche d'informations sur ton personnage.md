@@ -1189,7 +1189,7 @@ Les Chronomanciens utilisent le Moto afin de manipuler le Temps.
 >- Retour en arrière (annule un tour et rejoue)
 >- ...
 
-#### XXIII. 💤 Arcane du Rêve : **Les Faiseur·euse de rêves**
+ #### XXIII. 💤 Arcane du Rêve : **Les Faiseur·euse de rêves**
 
 ![Pasted image 20251024163332.png|300](/img/user/Images/Pasted%20image%2020251024163332.png)  ![Pasted image 20251024211813.png|300](/img/user/Images/Pasted%20image%2020251024211813.png) 
 

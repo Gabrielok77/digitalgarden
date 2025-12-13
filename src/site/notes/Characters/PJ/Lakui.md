@@ -382,14 +382,13 @@ Les Cauchemardeur.euse.s use de la magie onirique afin de manipuler les cauchema
 >[!author] Expression de Demi-libres
 >La Mort a déjà mangé à ma table, je ne peux pas la craindre. (*Phrase de Demi-libre.*)
 
->[!umbra] Comptine
+>[!author] Comptine
 >"Sauve qui peut, 
 Sauve qui peut,
 La bête s'est cachée
 Sauve qui peut,
 Sauve qui peut,
 Mwaana va chasser
->
 Si dans les ténèbres
 La panthère te guette
 Retrouve Maman Zèbre 
