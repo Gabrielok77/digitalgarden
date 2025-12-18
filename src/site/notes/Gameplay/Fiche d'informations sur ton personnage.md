@@ -9,17 +9,16 @@
 
 # Informations Principales
 
-
 Le but de ce document est de vous aider à créer un personnage original dans l'univers de Nal'Ubekla.
 
 Tout d'abord, on abordera les différentes possibilités de background ou de gameplay jouables. Ensuite, il y aura un petit questionnaire avec toutes les infos que vous souhaitez pour vos personnages. Le but n'est pas de forcément avoir une version très précise du personnage que vous souhaitez jouer mais plus d'avoir une ou des propositions pour que je puisse essayer de vous aider à jouer avec le personnage le plus fun pour vous possible !
-
 
 # 1. Le Monde de Nal'Ubekla
 
 Nal'Ubekla est un univers créé de mes soins se déroulant principalement en Afrique subsaharienne. Les inspirations culturelles sont principalement africaines. Pour autant, vous retrouverez beaucoup de clin d'œil/inspirations à DnD (Donjons et Dragons), Aria (un autre jeu de rôle) et pas mal de jeux vidéos (les RPGs bien Dragon Age, bien Baldur's Gate hehe).
 
 Le but de ce chapitre est de vous aider à écrire votre personnage in universo. Certaines descriptions sont très, TRES brèves, car le but n'est pas de vous spoiler le lore. 
+
 ## 1.1. Le Nseke 
 
 Le Nseke est le plan des vivants. C'est de ce plan dont va provenir votre personnage. Le Mpemba est lui, le plan du monde des morts, qui a lui-même son importance.
@@ -403,6 +402,7 @@ Le Mbungi n'est pas la première chose à avoir exister. Avant elle, c'est le Ch
 ### 1.4.7. La Guilde des Vivants
 
 La Guilde des Vivants est une alliance de coopération de tous les peuples des vivants, dans le but de créer une nation unique, unifiant toutes les espèces.
+
 ### 1.4.8. La Guilde des Défenseurs
 
 Les peuples de tous les plans subissent souvent de nombreuses menaces provenant de partout. Et plutôt que se défendre et de s'unir, ils rentrent en guerre entre eux et ne rentrent jamais en accord. La Guilde des Défenseurs a pour projet d'être les héros dont toustes ont besoin.
@@ -806,8 +806,8 @@ Les Sanctions utilise le Moto comme une magie d'Ordres et d'Objections. Elles ma
 
 
 #### VII.🏃 Arcane de la Vagabonde : **Les Vagabonds**
-![Pasted image 20251013011716.png|300](/img/user/Drafts/Cards_canvas/Images/Pasted%20image%2020251013011716.png)![Pasted image 20251013005106.png|300](/img/user/Drafts/Cards_canvas/Images/Pasted%20image%2020251013005106.png)
 
+![Pasted image 20251013011716.png|300](/img/user/Drafts/Cards_canvas/Images/Pasted%20image%2020251013011716.png)![Pasted image 20251013005106.png|300](/img/user/Drafts/Cards_canvas/Images/Pasted%20image%2020251013005106.png)
 
 
 >[!Roseframe] L'Arcane de la Vagabonde
