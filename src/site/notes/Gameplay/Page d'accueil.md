@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"home/","permalink":"/home//","title":"Home","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"home/","permalink":"/home//","title":"Page d'accueil","tags":["gardenEntry"]}
 ---
 
 
@@ -9,6 +9,8 @@
 
 # Menu d'accueil
 
+## => [[Characters/PNJ à One Shot\|PNJ à One Shot]]
 
-## PAGE EN REPARATION
+## => [[Worldbuilding/La valeur du Wolo\|La valeur du Wolo]]
 
+## => ???
