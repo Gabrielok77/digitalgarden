@@ -186,3 +186,10 @@ Sur le continent de Nal'Ubekla, tout fonctionne en wolo ! Un wolo est une pièce
 | Zèbre-hibou de trait | 1600 wolos |
 | Zèbre-hibou léger    | 1300 wolos |
 | Zèbre-hibou          | 800 wolos  |
+# Matériau random
+
+
+| Matériau             | Prix |
+| -------------------- | ---- |
+| Diama brut (kg)      | 1000 |
+| Bois noble brut (kg) | 900  |
