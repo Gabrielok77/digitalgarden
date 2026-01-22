@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/villes/matoto/"}
+{"dg-publish":true,"dg-path":"secret/matoto","permalink":"/secret/matoto/"}
 ---
 
 
