@@ -43,7 +43,7 @@ Arcane : X. Le Cauchemar
 
 Histoire (expliquer son passé) : Lakui est l'ancienne déité des mystères de la nuit. Lors du [[Lore/Le Grand Jaillissement\|Le Grand Jaillissement]], comme beaucoup d'autres déités, elle perdit tous ses pouvoirs de déités. Il lui a fallu 170 ans pour récupérer ses forces. A son réveil, elle se retrouve enfermé dans une lanterne, dans l'incapacité d'en sortir de son plein gré. 
 Tous les 30 ans, elle est appelée par des nobles de [[Worldbuilding/Maraka\|Maraka]] afin de répondre à des question sur le monde avant [[Lore/Le Grand Jaillissement\|Le Grand Jaillissement]] ou bien d'autres questions mystisques sur [[Worldbuilding/Le Monde des Déités\|Le Monde des Déités]]. 
-750 ans plus tard, il s'agissait d'un jeune garçon des rues qui faisait appel à elle. Nommé [[Characters/PNJ/Kaleb\|Kaleb]], son désir le plus cher était de se trouver une amie. En effet, ses parents sont morts lorsqu'il était très jeune et ce traumatisme lui a procuré l'arcane de [[Lore/Cards/XIII. La Furie\|La Furie]]. Il serait miraculeusement tombé sur sa lanterne alors qu'elle était tombée d'une calèche de voyage. 
+600 ans plus tard, il s'agissait d'un jeune garçon des rues qui faisait appel à elle. Nommé [[Characters/PNJ/Kaleb\|Kaleb]], son désir le plus cher était de se trouver une amie. En effet, ses parents sont morts lorsqu'il était très jeune et ce traumatisme lui a procuré l'arcane de [[Lore/Cards/XIII. La Furie\|La Furie]]. Il serait miraculeusement tombé sur sa lanterne alors qu'elle était tombée d'une calèche de voyage. 
 Un jour, les deux amis choisirent de se lancer dans un projet : traverser le Désert Noir et atteindre le [[Worldbuilding/Villes/جنة وراء الرمال\|جنة وراء الرمال (janna warā’a ar-rimāl), L'Eden au-delà des sables]]. Lors de la traversée, Lakui et Kaleb se sont retrouvés face à une Panthère des Sables, un monstre des sables de 4 mètres de haut connu pour les tempêtes de sable qu'il invoque sur son passage. La bête invoque alors une tempête de sable séparent les deux amis et aveuglant Lakui. Cette dernière essaie quand même de rattraper son ami et, à l'instant où elle arrive à toucher sa main une dernière fois, la foudre s'abat sur elle.
 Elle se réveilla plusieurs mois plus tard dans la Ville Etoiles. Elle ne sait ni comment ni pourquoi elle est arrivée là. Elle a été sauvée par Janila (une Fongieuse au calme imperturbale, légèrement blasée) et Rossignol (Arbre chanteur, très blagueuse). Elles se considèrent toutes deux sœurs et ont "adopté" Lakui. Formant une petite famille, elles ont vécu des années heureuses au sein de la Ville Etoiles. Lakui a d'ailleurs découvert qu'elle a éveillé l'arcane du Cauchemar. 
 Sa nouvelle grande soeur, Janila, lui proposa, après quelques années, un travail en tant qu'assistante d'expérience dans l'Observatoire. Lakui accepte et travaille pendant plus de 20 ans dans l'Observatoire, au côté du Professeur Mapapu. Elle profitait du bâtiment pour essayer de retrouver Kaleb, de temps à autres, sans succès.
@@ -94,7 +94,6 @@ Charisme : 14
 Foi : 14
 
 ### Compétences 
-
 
 >[!Umbra] Acrobaties
 >Action
