@@ -232,34 +232,37 @@ Bantu de la famille Lombe, Marguerites est une artiste de rue.
 >>Effet
 >>Permet de faire des petits dessins prenant vie
 
-## Marie-Sophie la Sélène
+## Marie-Sophie la Sélène [DESTIN INCERTAIN]
 
-![Personnages à One Shot 1.png|Sophie|400](/img/user/Images/Personnages%20%C3%A0%20One%20Shot%201.png) 
+![Personnages à One Shot 1.png|600](/img/user/Images/Personnages%20%C3%A0%20One%20Shot%201.png)
 
-Peuple : [[Worldbuilding/Peuples/Les Fongieuses\|Les Fongieuses]]
+Peuple : [Les Fongieuses](https://nalubekla.vercel.app/404)
 
-Arcane : [[Lore/Cards/II. La Lune\|II. La Lune]]
+Arcane : [II. La Lune](https://nalubekla.vercel.app/404)
 
-Fongieuse  [[Lore/Cards/II. La Lune\|Prêtresse de la Lune]], protectrice du Bosquet Azur.
+Fongieuse [Prêtresse de la Lune](https://nalubekla.vercel.app/404), protectrice du Bosquet Azur.
 
 ### Caractéristiques
 
-| Caractéristique | Score |
-| --------------- | :---: |
-| Endurance       |  12   |
-| Force           |  14   |
-| Foi             |  18   |
-| Charisme        |   9   |
-| Technique       |   8   |
-| Intelligence    |  13   |
-| PV              |  12   |
+|Caractéristique|Score|
+|---|---|
+|Endurance|12|
+|Force|14|
+|Foi|18|
+|Charisme|9|
+|Technique|8|
+|Intelligence|13|
+|PV|12|
+
 ### Compétence Spéciale
 
->[!eidolon] Croissant
->Jet : Foi
->>Lame d'énergie
->>Envoie un Croissant d'énergie 
->>Dégâts : Modificateur Force
+Croissant  
+
+Jet : Foi
+
+> Lame d'énergie  
+> Envoie un Croissant d'énergie  
+> Dégâts : Modificateur Force
 
 ## Plumes Grises le Bibliothécaire
 
@@ -269,7 +272,7 @@ Peuple : [[Worldbuilding/Peuples/Les Youk-youks\|Les Youk-youks]]
 
 Arcane : [[Lore/Cards/V. La Nautonière\|V. La Nautonière]] 
 
-Vieux Youk-youk aigri de la vie dont la passion est de collectionner des histoires.
+Vieux Youk-youk aigri de la vie dont la passion est de collectionner des histoires. Il s'agit d'un giga raciste par ailleurs.
 
 ### Caractéristiques
 
@@ -603,5 +606,5 @@ Fokayu capable de se décomposer en plusieurs morceaux et se téléporter vers d
 
 ## Bonobo [LOCKED]
 
-![PNJ à One Shot.png|600](/img/user/PNJ%20%C3%A0%20One%20Shot.png)
+![PNJ à One Shot 1.png|600](/img/user/Images/PNJ%20%C3%A0%20One%20Shot%201.png)
 
