@@ -8,7 +8,7 @@
 
 ## Informations Capitales
 
-![Lakui.jpg|00](/img/user/Images/Lakui.jpg)
+![Lakui.jpg|400](/img/user/Images/Lakui.jpg) 
 
 Nom : Lakui
 
