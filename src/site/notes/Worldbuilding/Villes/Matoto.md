@@ -33,10 +33,11 @@ La Ville est répartie en 5 différents blocs : Le Bloc des Guildes, Le Bloc du 
 Ce Bloc est celui dans lequel vit la plus haute strate de l'Empire. Dans ces profondeurs se trouve l'entrée du Palais Impérial. Plus l'on monte dans les étages, plus la famille résidente est importante pour le Palais Impérial.
 
 ### Lieux importants
-
-- 
+ 
 #### Palais Impérial
+
 ![Pasted image 20251121202924.png|Entrée des Pièces Impériales|200](/img/user/Images/Pasted%20image%2020251121202924.png)
+
 Deux étages dans lesquels vivent [[Characters/PNJ/Matoto IX\|Matoto IX]] et sa famille.
 
 ## Le Bloc des Guildes
@@ -129,15 +130,12 @@ Quartier ouvrier sous lequel se trouve notamment les mines de Diama.
 - [[Characters/PNJ/Nganabu\|Nganabu]], Maître éleveur
   >[!eidolon] Mise en vente
   >- Kit d'équipement pour zèbre-hibou (*prend un jour*) - 20 wolos
-  
 
 ## La Vielle Ville
 
 ### Yambiaka
 
 ![Pasted image 20251121203541.png|Yambiaka](/img/user/Images/Pasted%20image%2020251121203541.png)
-
-
 
 #### Lieux importants
 
@@ -151,7 +149,7 @@ Quartier ouvrier sous lequel se trouve notamment les mines de Diama.
 >[!eidolon] Mise en vente
 > - 100 petits Diamas (*très facilement négociable*) - 1000 wolos   
 
-##### Anciens Temples d'Ifa, Ogun et Chibinda Ilunga
+##### Anciens Temples d'Ifa, Simbi Grande et Mbokomu
 
 ![Pasted image 20251121211303.png|Temple Trinité](/img/user/Images/Pasted%20image%2020251121211303.png)
 
@@ -247,6 +245,7 @@ Indications vers la Chambre des Entrevues. Le servant insiste pour que le groupe
 >[!author] Les Quartiers de l'Impératrice
 >"*L'on raconte que Matoto Première a mis au monde sur le lit de Kalunga, donnant naissance à l'Impératrice Seconde. La Guerrière lui aurait chanté une prière avant de la baptiser **Matoto**, au sein du fleuve sacré. Cet événement a fleuri en une tradition au cours des siècles écoulés, chaque Matoto donnant naissance à la suivante sur le lit du Grand Fleuve. Les Quartiers de la Tête de l'Empire semblent imiter ce souvenir commun en étant une gigantesque piscine  remplie d'arbres et de nénuphars. C'est ici que Matoto passe le plus clair de son temps libre, s'amusant avec ses maîtresses.*"
 
+https://www.youtube.com/watch?v=Il8bLbcQpTw&list=RDIl8bLbcQpTw&start_radio=1
 Matoto accueille dans son trône Rhinocéros, l'équipe qui doit désormais choisir son nom.
 
 >[!author] Matoto IX
@@ -257,8 +256,10 @@ Elle écoute attentivement. Si un PJ dit une vérité totale ou fait couler du s
 
 #### Présentations et Récompenses
 
-Chaque PJ se présente et annonce la récompense souhaitée. Hélas, la Boîte à Souhait, ou Catadore, est actuellement entre les mains des plus haute instance du Royaumes Sages. Les deux puissances ont toujours été en conflit à cause du Macabre Carnaval. Elle explique que des phénomènes de sutifications se multiplient et qu'ils semblent avoir origine à la Grande Ville. Matoto prend la main de la personne la plus facilement manipulable et lui demande s'il est possible pour eux de l'aider à en retrouver le Catadore et de découvrir le secret du Macabre Carnaval.
+Chaque PJ se présente et annonce la récompense souhaitée. Hélas, la Boîte à Souhait, ou Catadore, est actuellement entre les mains des plus haute instance du Royaumes Sages. Les deux puissances ont toujours été en conflit à cause du Macabre Carnaval. Elle explique que des phénomènes de sutifications se multiplient et qu'ils semblent avoir origine à la Grande Ville. Matoto prend la main de la personne la plus facilement manipulable et lui demande s'il est possible pour eux de l'aider, en échange de quoi elle leur serait éternellement redevable envers les PJ.
 
+>[!umbra] Pas vraiment des soldats...
+>Voici le dit plan de Matoto : la ville du [[Worldbuilding/Villes/Le Domaine Blanc\|Domaine Blanc]] est actuellement sous l'emprise d'une tyran des Royaumes Sages : [[Characters/PNJ/Nonkululeko\|Nonkululeko]]. C'est elle qui empêche la terrible armée blanche d'envoyer son ultime offensive et en finir avec cette guerre. Afin de ne pas se perdre dans [[Worldbuilding/Msitu Mwekundu\|Msitu Mwekundu]], l'Impératrice donne des indications sur un moyen facile d'atteindre le Domaine Blanc depuis Matoto : se repérer par la migration des lucioles. À chaque nuit de Kala, aller à l'opposé du sens des lucioles. Il s'agit du chemin le plus sûr, bien que long. Arrivés là-bas, vous n'êtes pas des soldats et vous serez probablement incapable de vaincre [[Characters/PNJ/Nonkululeko\|Nonkululeko]] au combat. "Il vous faudra impérativement passer par la ruse. Infiltrez-vous dans la ville, faîtes vous passer pour des maris, épouses, marchands ou quoi que ce soit pendant au moins deux semaines, voire un mois, aussi longtemps que possible. Tout se jouera le premier Salumbu de Ntoto Ngonde. Le Grand Festival d'Ogun aura lieu ! Dans la pagaille de la soirée, faufilez-vous dans les profondeurs du Volcan Bleu et jetez y ceci. Il s'agit d'un sort de Chronostase placé sur papyrus par une [[Lore/Cards/VIII. L'Anachorète\|Silenceuse]]. Ce dernier va se répandre sur toute la ville par sa fumée. Ensuite, trouvez Dihya, la grande maîtresse forgeronne et dites lui que l'Impératrice est prête à reprendre ses terres, elle saura quoi faire. Vous n'aurez droit qu'à une seule et unique chance alors attendez bien le Festival. Je vous le demande, n'échouez pas. Parce que si vous échouez, je serai dans l'obligation de stopper cette guerre en stoppant tous les sutis, **vous compris**"
 
 ### Récompense.s
 
@@ -278,7 +279,7 @@ voir Récompense.s.
 
 ### Hook
 
-La vendeuse de merveilles [[Characters/PNJ/Ninina\|Ninina]] s'avère être en réalité une membre de l'ancienne Compagnie des Lucioles, une équipe dont les quatre membres sont aujourd'hui dispersés. Au fond d'elle, elle aimerait beaucoup réunir les trois autres membres qui restent encore sur le Nseke : [[Characters/PNJ/Wobebe\|Wobebe]], [[Characters/PNJ/Nganabu\|Nganabu]] et [[Characters/PNJ/Lala\|Lala]].
+La vendeuse de merveilles [[Characters/PNJ/Ninina\|Ninina]] s'avère être en réalité une membre de l'ancienne Compagnie des Lucioles, une équipe dont les quatre membres sont aujourd'hui dispersés. Au fond d'elle, elle aimerait beaucoup réunir les trois autres membres qui restent encore sur le Nseke : [[Characters/PNJ/Wobebe\|Wobebe]], [[Characters/PNJ/Nganabu\|Nganabu]] et [[Characters/PNJ/Lala Ngala\|Lala Ngala]].
 
 ### Résumé
 
@@ -288,15 +289,15 @@ Quête proposant aux personnages d'en savoir plus sur les membres de cette Compa
 
 ![Matoto 1.png|Bar Ndongo Ndongo|300](/img/user/Images/Matoto%201.png) ![Matoto 2.png|Paturages de Nganabu|300](/img/user/Images/Matoto%202.png)
 
-Nganabu travaille la journée dans ses pâturages. Cependant, iel se refuse strictement de parler de son passé au travail... Par contre, au bar Ndongo Ndongo, éméché comme iel l'est toujours là-bas, iel est très ouverte et exprime ses regrets vis-à-vis des nombreuses scissions du groupe.  Iel refuse néanmoins de reformer le groupe, pas tant que Wobebe n'est pas de la partie. Si l'équipe pose des questions sur [[Characters/PNJ/Lala\|Lala]], évasive, iel se contente de la traiter de traître et semble indiquer qu'il n'est pas nécessaire de la trouver afin de reformer un "groupe fonctionnel".
+Nganabu travaille la journée dans ses pâturages. Cependant, iel se refuse strictement de parler de son passé au travail... Par contre, au bar Ndongo Ndongo, éméché comme iel l'est toujours là-bas, iel est très ouverte et exprime ses regrets vis-à-vis des nombreuses scissions du groupe.  Iel refuse néanmoins de reformer le groupe, pas tant que Wobebe n'est pas de la partie. Si l'équipe pose des questions sur [[Characters/PNJ/Lala Ngala\|Lala Ngala]], évasive, iel se contente de la traiter de traître et semble indiquer qu'il n'est pas nécessaire de la trouver afin de reformer un "groupe fonctionnel".
 
 #### Wobebe le Maudit
 
-Maudit par la Panthère pour avoir révélé le secret de [[Characters/PNJ/Lala\|Lala]], l'ange est désormais devenu un démon : l'Obayifo, une créature obligée de quitter son enveloppe charnelle pour dévorer du sang ou de la lumière afin de survivre. Humilié, il se cache désormais dans son Manoir mobile, au cœur de [[Worldbuilding/Msitu Mwekundu\|Msitu Mwekundu]]. Il n'est pas très dur de le convaincre, pour peu qu'on le trouve. En effet, malgré ses allures de démon, c'est celui qui en réalité souhaite le plus la reformation de leur ancienne Compagnie.
+Maudit par la Panthère pour avoir révélé le secret de [[Characters/PNJ/Lala Ngala\|Lala Ngala]], l'ange est désormais devenu un démon : l'Obayifo, une créature obligée de quitter son enveloppe charnelle pour dévorer du sang ou de la lumière afin de survivre. Humilié, il se cache désormais dans son Manoir mobile, au cœur de [[Worldbuilding/Msitu Mwekundu\|Msitu Mwekundu]]. Il n'est pas très dur de le convaincre, pour peu qu'on le trouve. En effet, malgré ses allures de démon, c'est celui qui en réalité souhaite le plus la reformation de leur ancienne Compagnie.
 
 #### Et Lala..?
 
-La Compagnie reformée remercie l'équipe et décide de partir accomplir leur première mission : trouver [[Characters/PNJ/Lala\|Lala]].
+La Compagnie reformée remercie l'équipe et décide de partir accomplir leur première mission : trouver [[Characters/PNJ/Lala Ngala\|Lala Ngala]].
 
 ### Récompense.s
 
@@ -305,7 +306,7 @@ Masque de l'Impossible Guerrière + Ninina en marchande vagabonde.
 ### Personnages impliqués
 
 - [[Characters/PNJ/Ninina\|Ninina]]
-- [[Characters/PNJ/Lala\|Lala]]
+- [[Characters/PNJ/Lala Ngala\|Lala Ngala]]
 - [[Characters/PNJ/Nganabu\|Nganabu]]
 - [[Characters/PNJ/Wobebe\|Wobebe]]
 
@@ -331,7 +332,7 @@ Lorsque les PJ trouvent [[Characters/PNJ/Mo la Dictatrice\|Mo la Dictatrice]], u
 
 Bobo semble reconnaître les Anges Déchus, Bonobo est de [[Lore/Cards/IV. La Clairvoyante\|l'arcane de la Clairvoyante]], devinant l'arcane de chacun. "Présence de 8 arcanes différentes". Si PJ essaient de le confronter, fuite en canoé (Bobo et Bonobo rament et Gune balance des cailloux). But attraper petite tasse. Gune ne contrôle pas son arcane => explosions dans le courant et risque de tomber de la ville. 
 
-Mo remercie l'équipe et offre 5000 wolos à Nur, disant que c'est de la part de [[Worldbuilding/Guildes/La Guilde des Défenseurs\|La Guilde des Défenseurs]] mais surtout dans sa part, personnellement. Sur le retour plusieurs vieilles affiches dans la vieille ville : Njia recherchée pour 2000 wolos à la guilde des légendes, Train des Rêves Verts en reconstruction, Kaleb recherché pour "récompense au choix", 
+Mo remercie l'équipe et offre 5000 wolos à Nur, disant que c'est de la part de [[Worldbuilding/Guildes/La Guilde des Défenseurs\|La Guilde des Défenseurs]] mais surtout dans sa part, personnellement. Sur le retour plusieurs vieilles affiches dans la vieille ville : Njia recherchée pour 2000 wolos à la guilde des légendes, Train des Rêves Verts en reconstruction, Kaleb recherché pour "récompense au choix".
 
 #### Pause au bar Ndongo Ndongo  
 
@@ -418,6 +419,7 @@ La soirée commence plutôt bien. De nombreuses personnes sont déjà présentes
 >- [ ] Le Joueur Angélique : [[Characters/PNJ/Guerre des Guildes/Kuboka\|Kuboka]]
 >- [ ] Putulu, le Terrible Voleur de Visage
 >- [ ] Les révolutions du Désert Noir et du Pays des Ogres
+>- [ ] Le monstre de pierre [[Abraham\|Abraham]]
 >- [ ] [[Characters/PNJ/Nganabu\|Nganabu]] : la légende du Mlaroho
 >- [ ] [[Characters/PNJ/Chungu\|Chungu]] : comment elle a empêché un Marchemain de tuer un bébé zèbre-hibou et comment [[Characters/PJ/Njia\|Njia]] a failli tout gâché...
 
@@ -490,7 +492,7 @@ Jour de pluie... Les bottes sont pleine de boues. Nous sommes Ogulumbu.
 
 ### Hook
 
-En voyageant dans Matoto, il est possible que l'équipe rencontre des [[Worldbuilding/Peuples/Les Marionnettes\|gobelins]] orphelins, appelés les "Petites Mains". Par ci et là, elles gèrent les tâches sales de la capitale. [[Plume\|Plume]] est l'une d'entre elles avec la volonté de vouloir changer les choses ! Pour cela, il souhaite se créer un nouveau corps. Malheureusement, le Bois Noble coûte très cher et [[Ya Aimée\|Ya Aimée]] n'est plus revenue dans l'Orphelinat depuis maintenant plus d'un mois... 
+En voyageant dans Matoto, il est possible que l'équipe rencontre des [[Worldbuilding/Peuples/Les Marionnettes\|gobelins]] orphelins, appelés les "Petites Mains". Par ci et là, elles gèrent les tâches sales de la capitale. [[Characters/PNJ/Plume\|Plume]] est l'une d'entre elles avec la volonté de vouloir changer les choses ! Pour cela, il souhaite se créer un nouveau corps. Malheureusement, le Bois Noble coûte très cher et [[Characters/PNJ/Ya Aimée\|Ya Aimée]] n'est plus revenue dans l'Orphelinat depuis maintenant plus d'un mois... 
 
 ### Résumé
 
@@ -510,7 +512,7 @@ Si l'équipage arrive à lui en offrir, tout.e content.e, Plume voudra les invit
 
 #### Partie 2 : La Planque est par là !
 
-![Matoto.png|600](/img/user/Matoto.png)
+![Matoto 5.png|600](/img/user/Images/Matoto%205.png)
 
 La route vers l'Orphelinat est un vrai parkour. 
 >[!eidolon] Un chemin plus facile pour les habitué.es
@@ -521,34 +523,62 @@ La route vers l'Orphelinat est un vrai parkour.
 >[!eidolon] Le loncourci
 >La descente peut aussi passer par de l'escalade. Aux héros de décider comment ils arriveront au piémont à partir de là
 
-Arrivé en bas, Plume raconte que leur planque est destinée à la destruction. En effet, une Gare [[Characters/PNJ/Tembo\|Tembo]] va s'installer à Matoto dès le 1er Nkunga Ngonde... Juste à l'entrée de l'orphelinat 
+Arrivé en bas, Plume raconte que leur planque est destinée à la destruction. En effet, une Gare [[Characters/PNJ/Tembo\|Tembo]] va s'installer à Matoto dès le 1er Nkunga Ngonde... Juste à l'entrée de l'orphelinat, un Perroquet-Guépard arrache (?) un oeil à Plume et massacre tout son Bois Noble. 
 
 #### Partie 3 : La Guérisseuse d'âme Ya Aimée
 
-![Ya Aimée.png|400](/img/user/Ya%20Aim%C3%A9e.png)
+![Ya Aimée.png|400](/img/user/Images/Ya%20Aim%C3%A9e.png)
 
-Doit donner deux choses utiles sur le long terme
+Suite au vacarme [[Characters/PNJ/Ya Aimée\|Ya Aimée]] sort, accompagné de plusieurs enfants sur les bras et les genoux. Elle demande aux enfants de rentrer afin d'observer les dégâts d'elle-même. Elle console l'enfant et demande à [[Characters/PNJ/Nonku\|Nonku]] de le prendre avec iel. Après avoir soigné tous les PJ (gouttes de sang + "je souhaite"), Ya Aimée remercie les PJ en leur offrant la recette d'un baume de guérison (Feuilles de manioc écrasées, poudre d'écorce et fleurs murmures => +2d6 points de vie). 
+
+>[!eidolon] Les moyens de l'Orphelinat
+>Ya Aimée n'a plus les moyen de faire tenir cet orphelinat qui pourtant est essentiel en temps de guerre. En effet, la famille Muteba a choisi d'arrêter d'investir dedans (principale source de revenu) car plus assez rentable en tant de crise ("Nous pouvons tout autant faire confiance en la solidarité citoyenne"). Ya Aimée n'a *presque* pas d'autres choix si ce n'est de fermer son orphelinat.
+
+>[!eidolon] *Presque* ? 
+>[[Characters/PNJ/Ya Aimée\|Ya Aimée]] a demandé de l'aide à [[Characters/PNJ/Marinette\|Marinette]], la plus puissante sorcière qu'elle connaisse (et sa big daronne), alors qu'elle cueillait des plantes et champignons. Cette dernière lui a donné la recette de la potion de conviction forte. Ya Aimée hésite d'avance à s'en servir... Si les PJ accepte de l'aider, Ya Aimée les remercie et offre la recette. Pour les aider à chasser un Perroquet Guépard, elle offre aussi le [[Lore/Les Masques\|Masque des buissons paysages]] ainsi que la région dans laquelle on peut en trouver.
 
 #### Partie 4 : L'Oeil d'un Perroquet-Guépard 
 
-![Matoto-1.png|600](/img/user/Matoto-1.png)
+![Matoto-1 2.png|600](/img/user/Images/Matoto-1%202.png)
 
-Doit donner une récompense sur le long terme
+Trouver un Perroquet-Guépard est en général assez compliqué. Mais lorsqu'un de leur pairs passe, il laisse très souvent des traces... L'affrontement se déroule sur un terrain rempli d'arbres "échoués" sur le sol et de buisson. 
+
+Si les PJ se présentent à Ya Aimée avec tous les ingrédients, elles les remercient tendrement (câlings) et se met directement à la préparation.
+
+>[!eidolon] Concoction de la Potion de Conviction Forte
+>Ya Aimée semble épuisée. Si un PJ veut aider, en un jet d'Intelligence, iel peut apprendre la compétence **Préparation** (Intelligence + TEC). Si compétence apprise, un kit de matériel de sorcière offert. Si les PJ n'ont pas donné les bons ingrédients, la potion n'aura aucun effet.
+
+En guise de récompense, Ya Aimée est prête à offrir l'un de ses doigts. Si refus, elle a une meilleure idée.
 
 #### Partie 5 : Le Temple triple
 
-![Pasted image 20260122003800.png|400](/img/user/Pasted%20image%2020260122003800.png)
+![Pasted image 20260122003800.png|400](/img/user/Images/Pasted%20image%2020260122003800.png)
 
-Ya Aimée très impliquée
+Ya Aimée fait traverser à l'équipe un chemin secret où l'on prend toutes les couleurs de l'arc-en-ciel, éclatant les rayons blancs du Soleil. Au bout du trajet, les PJ peuvent observer l'entièreté de la ville de Matoto.
+
+>[!author] Ya Aimée
+>"*Il y a fort longtemps, alors que le monde des déités tremblait encore du passage de Kalunga, 3 déesses descendirent au pied de cette montagne afin de régler un différent : laquelle des trois était la meilleure chasseuse. La première à être descendue sur le Nseke était la Dame des profondeurs Simbi Grande. Toute puissante, elle exprima sa force en tirant une flèche contre la paroi de la montagne. Celle-ci fit fondre la pierre et propagea un poison sur toute la montagne. "**Désormais, mon poison dominera ce paysage pour l'éternité.**", dit-elle. Ensuite, ce fut Mbokomu, la Première Guerrière Ngombe qui fit honneur de sa présence, attestant de l'impact de la flèche de la Mère des Serpents. Elle invoqua une lance des profondeurs de la Terre, la brandit et l'envoya contre la pierre. Son arme fit trembler toute la montagne et invoqua une chaîne de montagnes entière dans le dos de l'originale. "**Désormais, mes montagnes domineront ce paysage pour l'éternité**", dit-elle. Enfin, la dernière déité arrivé : Ifa, la Yoruba. Cette dernière vit les dégâts causés par ses deux compétitrices. Elle envoya un baiser contre la pierre. Celui-ci créa un trou dans la pierre et fit naître une forêt dans ses profondeurs. "**Désormais, la vie dominera ce paysage pour l'éternité.**"*"
+>C'est une histoire que.. ma.. mère m'a raconté sur l'origine de Matoto. C'est pour cela qu'on peut y trouver ce temple en son sein. Et surtout, voyez ! Un Mtiroho (elle pointe l'arbuste devant une cascade) ! Il s'agit d'un coeur de forêt. Une très jeune forêt donc notre arbre coeur est très petit aussi, mais il ne lui suffira que de quelques petits millénaires pour qu'il devienne grandiose...
+
+Ya Aimée propose aux PJ à boire l'eau de la cascade
+
+>[!eidolon] Level UP
+>L'eau de la cascade a de nombreux effets différents :
+>>[!info] Bonus bonus
+>>- Sentir l'eau de la cascade régénère tous les points de vie perdus.
+>>- Se noyer dedans juste avant de mourir (PV = 0) ressuscite. 
+>>- Boire l'eau de la cascade donne 1 palier d'ascension à activer.
+>>- La Mère répond à la première question posée dans la pièce.
 
 ### Récompense.s
 
-
+bah level up quand même + plein d'items + l'ALCHIMIE FINALEMENG
 
 ### Personnages impliqués 
 
-
+- [[Characters/PNJ/Ya Aimée\|Ya Aimée]]
+- [[Characters/PNJ/Marinette\|Marinette]]
 
 ### Lien avec Lore
 
-
+Setup du monde de Ya Aimée et de Nonkululeko
