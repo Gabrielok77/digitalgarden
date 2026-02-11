@@ -6,7 +6,7 @@
 
 # Résumé
 
-La compagnie des Lucioles est le nom d'un groupe d'aventuriers ayant parcouru Nal'Ubekla entre 612 et 644
+La compagnie des Lucioles est le nom d'un groupe d'aventuriers ayant parcouru Nal'Ubekla entre 612 et 644.
 
 # Membres Phares
 
@@ -36,4 +36,4 @@ Héros des profondeurs, Nganabu est un lézardien.ne de Matoto étant sorti de s
 
 ## Lala, Fille des Océans
 
-Pirate sans navire, elle rejoint l'équipage de 
+Pirate sans navire, elle rejoint la Compagnie des Lucioles pour LA GLOIRE.
