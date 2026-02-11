@@ -37,3 +37,15 @@ Héros des profondeurs, Nganabu est un lézardien.ne de Matoto étant sorti de s
 ## Lala, Fille des Océans
 
 Pirate sans navire, elle rejoint la Compagnie des Lucioles pour LA GLOIRE.
+
+## ???
+
+.....
+
+## ???
+
+.....
+
+
+# 
+
