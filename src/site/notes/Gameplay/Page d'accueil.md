@@ -13,4 +13,4 @@
 
 ## => [[Worldbuilding/La valeur du Wolo\|La valeur du Wolo]]
 
-## => ???
+## => [[Characters/La Compagnie des Lucioles\|La Compagnie des Lucioles]]
