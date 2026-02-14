@@ -340,8 +340,14 @@ Relations générales des Marionnettes avec les Masqués : **Respect**. Les Masq
 
 ### Le Désert Noir
 
+Désert où la lumière ne vient jamais, rempli de peuples et créatures dangereux et mystérieux.
 
 ### Matoto
+
+Capitale de l'Empire Matoto.
+
+### Sha'b al Nur
+
 
 
 ## Arcanes 
