@@ -223,24 +223,6 @@ Foi : 8
 
 ## Les peuples 
 
-### Les Fongieuses
-
-
-![Pasted image 20251023202228.png|300](/img/user/Images/Pasted%20image%2020251023202228.png)   ![Pasted image 20251023202311.png|300](/img/user/Images/Pasted%20image%2020251023202311.png)
-
----------------
-
-
-Les grandes valeurs des Fongieuses sont le collectivisme et l'exploitation de ressources. En effet, pour elles, tout est bon, tout est **parfaitement justifié** si cela est fait au nom du collectif. Le collectif, pour les Fongieuses, ne se limite pas à leur espèce mais bien à tous les Vivants. 
-### Les Arbres Chanteurs
-
-
-![Pasted image 20251023234621.png|300](/img/user/Images/Pasted%20image%2020251023234621.png)    ![Pasted image 20251023234656.png|300](/img/user/Images/Pasted%20image%2020251023234656.png)
-
----------------
-
-Nés un peu partout sur le continent, les Arbres Chanteurs sont ouverts et bavards. Ils portent des noms de chansons ou au rythme musical. Ils ne sont pas forcément grand défenseur de la nature, ironiquement.
-
 
 
 ### Les Marionnettes 
@@ -261,6 +243,8 @@ Le peuple des Marionnettes est fier et est héritier d'un ancien très puissant 
 
 Les Youk-youks se sont isolés en quelques tribus à travers le continent. Littéralement au dessus des autres, ils vivent toujours amèrement ne plus vivre dans la voute céleste... Mais bon, certains de ces terriens sont supportables.. De temps à autres...
 
+Relations générales des Marionnettes avec les Youk-youk : **Neutre**. Leur caractère condescendant provoque la fatigue de certaines marionnettes mais en apprenant à vivre avec eux, il est clair que leur condescendance ne provient pas d'une réelle méchanceté mais plutôt d'une posture sociale et morale.
+
 ### Les Batracien.ne.s
 
 
@@ -271,6 +255,7 @@ Les Youk-youks se sont isolés en quelques tribus à travers le continent. Litt�
 
 Originaires de l'île na Masano, le peuple des Batraciens est née dans des climats des plus dangereux ! Afin de survivre, ils ont développé des méthodes de survie très dangereuses et sont réputés être de dangereux tueurs cannibales. La réalité est bien sûr loin de tout ça ! Enfin... A quelques victimes près....
 
+Relations générales des Marionnettes avec les Batraciens : **Sympathique**. Les Batraciens ont historiquement été des défenseurs des Marionnettes. En effet, de nombreux héroïnes et héros de ce peuple ont défendu et protégé des villages de Marionnettes ([[Characters/PNJ/Nirina\|Nirina]], [[Characters/PNJ/Fitia\|Fitia]], [[Characters/PNJ/Manja\|Manja]], [[Characters/PNJ/Naivo\|Naivo]] etc.).
 
 ### Les Ogres.se.s
 
@@ -281,6 +266,8 @@ Originaires de l'île na Masano, le peuple des Batraciens est née dans des clim
 
 Les Ogres sont originaires de [[Worldbuilding/Maraka\|Maraka]]. Ils sont en général, plutôt forts, avec un bon sens de l'humour.
 
+Relations générales des Marionnettes avec les Ogre.sses : **Hostile**. Les Marionnettes ont généralement peur des Ogre.sses depuis des générations. Bien que drôles, ils seraient capables de dévorer des enfants et des Marionnettes juste par gourmandise. Beaucoup de parents Marionnettes disent à leurs enfants de construire une marionnette assez grande pour faire face à un ogre.
+
 ### Les demi-libres
 
 ![Pasted image 20251024001954.png|300](/img/user/Images/Pasted%20image%2020251024001954.png)![Pasted image 20251024002031.png|300](/img/user/Images/Pasted%20image%2020251024002031.png) ![Pasted image 20251024002107.png|300](/img/user/Images/Pasted%20image%2020251024002107.png)
@@ -289,18 +276,28 @@ Les Ogres sont originaires de [[Worldbuilding/Maraka\|Maraka]]. Ils sont en gén
 
 Tout me monde n'était pas gagnant, lors du Grand Jaillissement ! Certaines anciennes déités ont perdus une grande partie de leurs pouvoirs, notamment au nord du Grand Désert Noir. Afin de se protégés d'elles, les peuples du Nord ont du les scellés dans des artéfacts. Certains d'entre elles ont réussi à s'enfuir et survivre à la traversée du Grand Désert Noir ! Toujours liés à leurs artéfacts par des chaînes magiques, ils ne sont qu'à moitié libre...  
 
+Relations générales des Marionnettes avec les Demi-libres : **Idolâtrés ou détestés**. Les Demi-libres sont vu comme un symbole d'espoir ou alors comme des êtres maudits qui sont condamnés à leur condition de demi-liberté pour une raison. Les esprits les plus cartésiens les méprisent, ainsi que leur "pseudo ancienne déité". Tandis que les plus pieux les voient comme des porte-bonheurs.
+
 ### Les Fétiches 
 
 
 ![Pasted image 20251023235100.png|300](/img/user/Images/Pasted%20image%2020251023235100.png)![Pasted image 20251024002620.png|300](/img/user/Images/Pasted%20image%2020251024002620.png)   ![Pasted image 20251024002639.png|300](/img/user/Images/Pasted%20image%2020251024002639.png)
 
 -----------
+
 Petites créatures à l'humour très discutable.
+
+Relations générales des Marionnettes avec les Fétiches : **Moqueries**. Les Fétiches semblent être des petits démons piégés dans un corps de bois. 
+
 ### Les Hommes de Fer
 
 ![Pasted image 20251024001328.png|300](/img/user/Images/Pasted%20image%2020251024001328.png)   ![Pasted image 20251024001348.png|300](/img/user/Images/Pasted%20image%2020251024001348.png)  ![Pasted image 20251024001444.png|300](/img/user/Images/Pasted%20image%2020251024001444.png)
 
+----
+
 Il existe des êtres faits de métal qui crachent la fumée.
+
+Relations générales des Marionnettes avec les Hommes de fer : **Mystère**. Ces hommes de fer sont curieux. Comment fonctionnent-ils ?
 
 ### Les Trois Yeux
 
@@ -309,6 +306,32 @@ Il existe des êtres faits de métal qui crachent la fumée.
 -----------------
 
 Peuple hypersensible. Iels croient beaucoup à un destin qui seuls les Divinités peuvent changer. Leur troisième œil, perçu comme une malédiction, leur donne une capacité accrue à voir l'invisible.
+
+Relations générales des Marionnettes avec les Trois Yeux : **Neutre**. Les Trois Yeux sont sympathiques, mais leur capacité à voir à travers le visible crée beaucoup de méfiance chez les Marionnettes...
+
+### Les Bantous
+
+
+![Pasted image 20251024000227.png|300](/img/user/Images/Pasted%20image%2020251024000227.png)  ![Pasted image 20251024000251.png|300](/img/user/Images/Pasted%20image%2020251024000251.png)
+
+
+------------------
+
+Peuple très pieux, on dit que les Bantous étaient et sont encore le peuple le plus présent du continent. Vivants naturellement dans les forêts, les Bantous sont naturellement proches des esprits. 
+
+Relations générales des Marionnettes avec les Bantous : **Neutre**.
+
+### Les Masqués
+
+
+![Pasted image 20251023235334.png|300](/img/user/Images/Pasted%20image%2020251023235334.png)![Pasted image 20251023235355.png|300](/img/user/Images/Pasted%20image%2020251023235355.png) ![Pasted image 20251023235439.png|300](/img/user/Images/Pasted%20image%2020251023235439.png)
+
+------------------------
+
+Ces êtres sont plutôt rares à voir. Prêchant une déité obscure, leur philosophie est simple : le Mpemba (monde des morts) ne devrait jamais entré en contact avec le Nseke. Afin de garder la mémoire de leurs défunts, ces personnes sont tatouées et portent des vêtement amples avec de nombreux dessins dessus. 
+Ils avait aussi conçu un outil avec de se remémorer les morts : les Masques. Ce qui leur a, en retour, valu leur péjorative réputation de "Voleurs de Visages"... 
+
+Relations générales des Marionnettes avec les Masqués : **Respect**. Les Masqués sont les seuls à ne jamais demander comment fonctionnent les Marionnettes.
 
 ## Les Lieux
 
@@ -376,9 +399,9 @@ Les Princes.se.s, de par leur charme naturellement incroyable, attire le Destin 
 >[!author] Expressions de Marionnettes
 >Slaki ! (Idiot.e !)
 
-
 >[!author] Expressions de Marionnettes
 >Baisse les yeux plus bas qu'ils ne le sont déjà ! (Menace aux non-marionnettes)
+
 
 
 
