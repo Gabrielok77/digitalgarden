@@ -171,10 +171,12 @@ Sur le continent de Nal'Ubekla, tout fonctionne en wolo ! Un wolo est une pièce
 | Supu na tolo (alcool avec effets aphrodisiaques (1d8)) 45°   | 18 wolos  |
 | Laela Mmago (1/20 de subir 1d8 de dégâts sinon +1d4 de soin) | 20 wolos  |
 | Motes o teng godimo (1/10 de subir 1d8 de dégâts )           | 21 wolos  |
+| Kahwa (pour 5 personnes)                                     | 15 wolos  |
+| Paquet de tabac ( _Entada rheedei_)                          | 30 wolos  |
 
 | **Bien**             | **Prix**   |
 | -------------------- | ---------- |
-| Âne                  | 200 wolos  |
+| Chèvre lama          | 200 wolos  |
 | Bateau (petit)       | 700 wolos  |
 | Bateau moyen         | 1100 wolos |
 | Canot                | 800 wolos  |
@@ -185,11 +187,12 @@ Sur le continent de Nal'Ubekla, tout fonctionne en wolo ! Un wolo est une pièce
 | Zèbre-hibou          | 2000 wolos |
 | Zèbre-hibou de trait | 1600 wolos |
 | Zèbre-hibou léger    | 1300 wolos |
-| Zèbre-hibou          | 800 wolos  |
-# Matériau random
+| Chèvre éléphant      | 800 wolos  |
+# Random Stuff
 
 
 | Matériau             | Prix |
 | -------------------- | ---- |
 | Diama brut (kg)      | 1000 |
 | Bois noble brut (kg) | 900  |
+| Outils de Marionette | 170  |
