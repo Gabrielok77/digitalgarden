@@ -608,3 +608,9 @@ Fokayu capable de se décomposer en plusieurs morceaux et se téléporter vers d
 
 ![PNJ à One Shot 1.png|600](/img/user/Images/PNJ%20%C3%A0%20One%20Shot%201.png)
 
+## Unyoya [Locked]
+
+![Pasted image 20260121105257.png|300](/img/user/Images/Pasted%20image%2020260121105257.png)
+
+
+
