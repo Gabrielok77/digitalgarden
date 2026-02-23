@@ -356,7 +356,7 @@ Peuple : [[Worldbuilding/Peuples/Les Trois Yeux\|Les Trois Yeux]]
 
 Arcane : [[Lore/Cards/XVI. La Vierge\|XVI. La Vierge]]
 
-Arbre Chanteur cauchemardeuse moqueuse s'amusant en faisant peur à des passants dans les [[Worldbuilding/Msitu Mweupe\|Bois Blancs]].
+
  
 ### Caractéristiques
 
@@ -404,7 +404,7 @@ Belle-soeur du [[Characters/PNJ/Tembo\|Grand Maître Artisan Tembo]], elle s'est
 >>Effet
 >>Permet de donner l'impression qu'un objet a un effet spécifique (une potion a un effet guérisseur, une tenue est particulièrement belle, un couteau a l'air vraiment dangereux) au point que, pendant un court instant, cet effet est réel
 
-## Gouraya Azul
+## Gouraya Azul [Bouffée]
 
 ![Pasted image 20260118001843.png|Gouraya|600](/img/user/Images/Pasted%20image%2020260118001843.png)
 
@@ -612,5 +612,5 @@ Fokayu capable de se décomposer en plusieurs morceaux et se téléporter vers d
 
 ![Pasted image 20260121105257.png|300](/img/user/Images/Pasted%20image%2020260121105257.png)
 
-
+## 
 
