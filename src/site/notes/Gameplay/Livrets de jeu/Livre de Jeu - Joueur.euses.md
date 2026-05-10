@@ -1047,7 +1047,6 @@ Foi - 1
 >>[!info] Combo
 >>Attaque une fois supplémentaire contre un ennemi
 
-
 >[!Roseframe]  Nouveau Soleil : Explosion Arcanique
 >
 >Condition : *Réussir à chaque tour un jet de **FORCE** + [ nombre de tours ]* :
@@ -1057,242 +1056,18 @@ Foi - 1
 >>- Soigne tous les alliés à 10 mètres près (1d4)
 >>- Perd un/des PV (1d4)
 
-
 ## Les Ecoles du Soleil 
 
 
 ### L'école de la Flamme
 
-
-
->[!Roseframe]
->
->>[!info]
-
->[!Roseframe]
->
->>[!info]
-
->[!Roseframe]
->
->>[!info]
 ### L'école Astrale
-
->[!Roseframe]
->
->>[!info]
-
->[!Roseframe]
->
->>[!info]
-
->[!Roseframe]
->
->>[!info]
-
-
 
 
 ### L'école de la Lumière
 
->[!Roseframe]
->
->>[!info]
 
->[!Roseframe]
->
->>[!info]
 
->[!Roseframe]
->
->>[!info]
-
-
-
-
-## Ajouts par niveau
-
-| Niveau | Bonus de Maîtrise | Caractéristiques de Classe       | Détails                                              |
-| :----: | :---------------: | -------------------------------- | ---------------------------------------------------- |
-|   1    |        +2         | Spécialisation (armes)           | Choix d'une arme de combat                           |
-|   2    |        +2         | Amélioration de caractéristiques | +2 points à accordés dans des compétences maîtrisées |
-|   3    |        +2         | **Relance !**                    | Permet une action supplémentaire                     |
-|   4    |        +2         | Spécialisation (armes)           | Choix d'une arme de combat                           |
-|   5    |        +3         | Ecoles du Soleil                 | Choix d'une sous-classe                              |
-|   6    |        +3         | **Double coup**                  | Permet d'attaquer 2 fois                             |
-| 7<br>  |        +3         | Amélioration de caractéristiques | +2 points à accordés dans des compétences maîtrisées |
-| 8<br>  |        +3         | Niveau de sous-classe +1         | Elevation d'un niveau de compétence                  |
-|   9    |        +4         | Sous-classe compétence           | Offre une compétence d'une autre sous-classe         |
-|   10   |        +4         | **Nouveau Soleil**               | Activation de l'Arcane du Soleil                     |
-|   11   |        +4         | Sous-classe compétence           | Offre une compétence d'une autre sous-classe         |
-|   12   |        +4         | Amélioration de caractéristiques | +2 points à accordés dans des compétences maîtrisées |
-|   13   |        +5         | Niveau de sous-classe +1         | Elevation d'un niveau de compétence                  |
-|   14   |        +5         | Spécialisation (armes)           | Choix d'une arme de combat                           |
-|   15   |        +5         | **Arme Solaire**                 | Invocation d'une arme avec l'énergie du Soleil       |
-|   16   |        +5         | Sous-classe compétence           | Offre une compétence d'une autre sous-classe         |
-|   17   |        +6         | Amélioration de caractéristiques | +2 points à accordés dans des compétences maîtrisées |
-|   18   |        +6         | **Relance !**                    | Permet une action supplémentaire                     |
-|   19   |        +6         | Niveau de sous-classe +1         | Elevation d'un niveau de compétence                  |
-|   20   |        +6         | Amélioration de caractéristiques | +2 points à accordés dans des compétences maîtrisées |
-|        |                   | **Cri du Rhinocéros**            | Changement en forme Rhino                            |
-
-
-
-
-
-
-
-## Barbare
-
-### Voie de l'Arbre-Monde.....54
-
-### Voie du Berserker.....55
-
-### Voie du Coeur sauvage.....56
-
-### Voie du Zélateur.....57
-
-## Barde.....58
-
-### Liste des sorts de Barde.....62
-
-### Collège de la Danse.....64
-
-### Collège du Savoir.....65
-
-### Collège de la Séduction.....66
-
-### Collège de la Vaillance.....67
-
-## Clerc.....68
-
-### Liste des sorts de Clerc.....71
-
-### Domaine de la Guerre.....73
-
-### Domaine de la Lumière.....74
-
-### Domaine de la Ruse.....75
-
-### Domaine de la Vie.....77
-
-## Druide.....78
-
-### Liste des sorts de Druide.....82
-
-### Cercle des Astres.....84
-
-### Cercle de la Lune.....86
-
-### Cercle des Mers.....87
-
-### Cercle de la Terre.....88
-
-## Ensorceleur.....90
-
-### Options de Métamagie.....93
-
-### Liste des sorts d'Ensorceleur.....94
-
-### Sorcellerie aberrante.....97
-
-### Sorcellerie draconique.....98
-
-### Sorcellerie mécanique.....99
-
-### Sorcellerie sauvage.....101
-
-## Guerrier.....104
-
-### Champion.....107
-
-### Chevalier occulte.....108
-
-### Maître de guerre.....110
-
-### Soldat psi.....112
-
-## Magicien.....114
-
-### Liste des sorts de Magicien.....118
-
-### Abjurateur.....122
-
-### Devin.....123
-
-### Évocateur.....124
-
-### Illusionniste.....125
-
-### Moine.....126
-
-### Credo des Éléments.....130
-
-### Credo de la Miséricorde.....131
-
-### Credo de l'Ombre.....132
-
-### Credo de la Paume.....133
-
-## Occultiste
-
-### Options de Manifestation occulte.....137
-
-### Liste des sorts d'Occultiste.....139
-
-### Protecteur Archifée.....141
-
-### Protecteur Céleste.....142
-
-### Protecteur Fiélon.....143
-
-### Protecteur Grand Ancien.....144
-
-## Paladin.....146
-
-### Liste des sorts de Paladin.....150
-
-### Serment des Anciens.....151
-
-### Serment de Dévotion.....152
-
-### Serment de Gloire.....153
-
-### Serment de Vengeance.....154
-
-## Rôdeur.....156
-
-### Liste des sorts du Rôdeur
-
-### Belluaire.....160
-
-### Chasseur.....162
-
-### Traqueur des ténèbres.....163
-
-### Vagabond féerique.....164
-
-## Roublard.....166
-
-### Âme acérée.....170
-
-### Arnaqueur arcanique.....172
-
-### Assassin.....174
-
-### Voleur.....175
-
-# Chapitre 5 : Dons.....198
-
-## Description des dons.....199
-
-### Dons d'origines.....200
-
-### Dons généraux.....202
-
-### Dons de Style de combat.....209
-
-### Dons de faveur épique.....210
 
 # Ch. 6. Équipement
 
@@ -1338,8 +1113,3 @@ Foi - 1
 
 ## Le Plan Obscur (amazighen)
 
-# Annexe B. Profils de créature.....346
-
-# Annexe C. Glossaire de règles.....360
-
-# Index.....378
