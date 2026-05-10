@@ -996,7 +996,7 @@ Les zombis sont des esprits replacés dans leurs corps, charmés par des sorcier
 >- Insensibilité aux charmes
 
 
-# Chapitre 3 : Classes de personnages.....48
+# Chapitre 4 : Les Arcanes Majeures
 
 ## I. Chevalier.e du Soleil
 
@@ -1025,7 +1025,7 @@ Foi - 1
 >Jet : Force
 >Effet : Effectuer une performance physique.
 
-## Compétences
+### Compétences
 
 >[!Roseframe] Appel du Soleil
 >Condition : être sous la lumière du Soleil
@@ -1056,52 +1056,42 @@ Foi - 1
 >>- Soigne tous les alliés à 10 mètres près (1d4)
 >>- Perd un/des PV (1d4)
 
-## Les Ecoles du Soleil 
+### Les Ecoles du Soleil 
 
 
-### L'école de la Flamme
+#### L'école de la Flamme
 
-### L'école Astrale
-
-
-### L'école de la Lumière
+#### L'école Astrale
 
 
+#### L'école de la Lumière
 
 
-# Ch. 6. Équipement
 
-## Monnaie.....213
 
-## Armes.....213
 
-### Propriétés.....213
+# Chapitre 5 : L'Inventaire
 
-### Propriétés botte.....214
+## La valeur du Wolo
 
-## Armures.....219
+## Armures et Armes
 
-## Outils.....220
+## Outils
 
-## Équipement d'aventurier.....222
+## Équipement d'aventurier
 
-## Montures et véhicules.....
+## Montures et véhicules
 
-## Services.....230
+## Services
 
-## Objets magiques.....232
+## Objets magiques
 
-## Fabriquer de l'équipement.....233
+## Fabriquer de l'équipement
 
-# Chapitre 7 : Sorts.....234
+## Masques
 
-## Acquisition des sorts.....235
 
-## Incantion.....235
-
-## Descriptions des sorts.....239
-
-# Annexe A : Le multivers.....344
+# Chapitre 6 : Les Régions de Nal'Ubekla
 
 ## Le Nseke
 
